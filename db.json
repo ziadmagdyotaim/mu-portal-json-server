@@ -1,0 +1,560 @@
+{
+  "layouts": [
+    {
+      "id": 0,
+      "type": "university",
+      "name": "MU Main Portal",
+      "subdomain": "mu",
+      "layout_level": 1,
+      "pages": [
+        { "path": "/", "component": "L1HomePage" },
+        { "path": "/about", "component": "L1AboutPage" },
+        { "path": "/colleges", "component": "UniversityColleges" }
+      ],
+      "theme": "green",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRjYfeuZfDZfshe8HrHQrmjXtOl1vqAgBLhA&s"
+    },
+    {
+      "id": 1,
+      "name": "FEE",
+      "subdomain": "fee",
+      "is_owner": true,
+      "layout_level": 2,
+      "pages": [
+        { "path": "/", "component": "L2HomePage", "is_owner": true },
+        { "path": "/about", "component": "L2AboutPage", "is_owner": false },
+        {
+          "path": "/departments",
+          "component": "CollegeDepartments",
+          "is_owner": false
+        },
+        {
+          "path": "/:department_id",
+          "component": "L3HomePage",
+          "is_owner": true,
+          "layout_level": 3,
+          "pages": [
+            {
+              "path": "/:department_id/staff",
+              "component": "DepartmentStaff",
+              "is_owner": true,
+              "layout_level": 4,
+              "pages": [
+                { "path": "/", "component": "L2HomePage", "is_owner": false },
+                {
+                  "path": "/about",
+                  "component": "L2AboutPage",
+                  "is_owner": false
+                },
+                {
+                  "path": "/departments",
+                  "component": "CollegeDepartments",
+                  "is_owner": false
+                }
+              ]
+            },
+            {
+              "path": "/:department_id/staff/:id",
+              "component": "DepartmentStaffMember",
+              "is_owner": false
+            }
+          ]
+        }
+      ],
+      "theme_color": "#007BFF",
+      "logo": "link_to_image"
+    },
+    {
+      "id": 2,
+      "type": "college",
+      "name": "Medicine",
+      "subdomain": "med",
+      "layout_level": 2,
+      "pages": [
+        { "path": "/", "component": "L2HomePage" },
+        { "path": "/about", "component": "L2AboutPage" },
+        { "path": "/departments", "component": "CollegeDepartments" },
+        { "path": "/students", "component": "CollegeStudents" }
+      ],
+      "theme": "#28A745",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlp7rKJBOQUDgF5T4xFudysP1pfdeUkL_vwQ&s"
+    },
+    {
+      "id": 4,
+      "type": "department",
+      "name": "Computer Science",
+      "subdomain": "fee.cs",
+      "layout_level": 3,
+      "pages": [
+        { "path": "/", "component": "L3HomePage" },
+        { "path": "/about", "component": "L3AboutPage" },
+        { "path": "/staff", "component": "DepartmentStaff" },
+        { "path": "/staff/:id", "component": "DepartmentMember" },
+        { "path": "/students", "component": "DepartmentStudents" }
+      ],
+      "theme": "blue",
+      "logo": "https://r2.erweima.ai/imgcompressed/img/compressed_d34e66a10c7f09aae324e095d9e8ed79.webp"
+    }
+  ],
+  "header_links": [
+    {
+      "id": 1,
+      "name": {
+        "ar": "الحصول علي البريد لاعضاء هيئة التدريس",
+        "en": "Get email for faculty members"
+      },
+      "ui_position": "top",
+      "has_submenu": false,
+      "url": ""
+    },
+    {
+      "id": 2,
+      "name": {
+        "ar": "مركز ضمان الجودة والاعتماد",
+        "en": "Quality Assurance and Accreditation Center"
+      },
+      "ui_position": "top",
+      "has_submenu": false,
+      "url": ""
+    },
+    {
+      "id": 3,
+      "name": {
+        "ar": "استبيانات",
+        "en": "Surveys"
+      },
+      "ui_position": "top",
+      "has_submenu": false,
+      "url": ""
+    },
+    {
+      "id": 4,
+      "name": {
+        "ar": "ارشيف الأخبار",
+        "en": "News Archive"
+      },
+      "ui_position": "top",
+      "has_submenu": false,
+      "url": ""
+    },
+    {
+      "id": 5,
+      "name": {
+        "ar": "مركز القياس والتقويم",
+        "en": "Measurement and Evaluation Center"
+      },
+      "ui_position": "top",
+      "has_submenu": false,
+      "url": ""
+    },
+    {
+      "id": 1,
+      "name": {
+        "ar": "ادارة الجامعة",
+        "en": "University Management"
+      },
+      "ui_position": "bottom",
+      "has_submenu": true,
+      "children": [
+        {
+          "id": 2,
+          "name": {
+            "ar": "قطاع رئيس الجامعة",
+            "en": "University President Sector"
+          },
+          "has_submenu": false,
+          "link": "http://mu.menofia.edu.eg/univpres"
+        },
+        {
+          "id": 3,
+          "name": {
+            "ar": "قطاع نائب شئون التعليم الطلاب",
+            "en": "Vice Sector for Student Affairs"
+          },
+          "has_submenu": false,
+          "link": "http://mu.menofia.edu.eg/educ"
+        },
+        {
+          "id": 4,
+          "name": {
+            "ar": "قطاع نائب شئون خدمة المجتمع وتنمية البيئة",
+            "en": "Vice Sector for Community Service"
+          },
+          "has_submenu": false,
+          "link": "http://mu.menofia.edu.eg/env"
+        },
+        {
+          "id": 5,
+          "name": {
+            "ar": "قطاع نائب شئون الدراسات العليا والبحوث",
+            "en": "Vice Sector for Postgraduate Studies and Research"
+          },
+          "has_submenu": false,
+          "link": "http://mu.menofia.edu.eg/postgrad"
+        },
+        {
+          "id": 6,
+          "name": {
+            "ar": "قطاع امين عام الجامعة",
+            "en": "University Secretary General Sector"
+          },
+          "has_submenu": false,
+          "link": "http://mu.menofia.edu.eg/secr"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "ui_position": "bottom",
+      "name": {
+        "ar": "عن الجامعة",
+        "en": "About the University"
+      },
+      "has_submenu": true,
+      "children": [
+        {
+          "id": 8,
+          "name": {
+            "ar": "إدارة الجامعة",
+            "en": "University Administration"
+          },
+          "has_submenu": true,
+          "children": [
+            {
+              "id": 9,
+              "name": {
+                "ar": "رئيس الجامعة",
+                "en": "University President"
+              },
+              "has_submenu": false,
+              "link": "/View/39373/ar"
+            },
+            {
+              "id": 10,
+              "name": {
+                "ar": "نائب رئيس الجامعه لشئون التعليم والطلاب",
+                "en": "Vice President for Student Affairs"
+              },
+              "has_submenu": false,
+              "link": "/View/7722/ar"
+            },
+            {
+              "id": 11,
+              "name": {
+                "ar": "نائب رئيس الجامعه للدراسات العليا والبحوث العلمية",
+                "en": "Vice President for Postgraduate Studies"
+              },
+              "has_submenu": false,
+              "link": "/View/7723/ar"
+            },
+            {
+              "id": 12,
+              "name": {
+                "ar": "نــائـب رئيــس الجامعــة لشئون خدمة المجتمع وتنمية البيئة",
+                "en": "Vice President for Community Development"
+              },
+              "has_submenu": false,
+              "link": "/View/121668/ar"
+            },
+            {
+              "id": 13,
+              "name": {
+                "ar": "أمين الجامعه",
+                "en": "University Secretary"
+              },
+              "has_submenu": false,
+              "link": "/View/6721/ar"
+            },
+            {
+              "id": 14,
+              "name": {
+                "ar": "قايمة فرعية",
+                "en": "Submenu Item"
+              },
+              "has_submenu": false,
+              "link": "/View/141867/ar"
+            }
+          ]
+        },
+        {
+          "id": 15,
+          "name": {
+            "ar": "نشأة الجامعة",
+            "en": "University Foundation"
+          },
+          "has_submenu": false,
+          "link": "/View/576/ar"
+        },
+        {
+          "id": 16,
+          "name": {
+            "ar": "رؤية الجامعة",
+            "en": "University Vision"
+          },
+          "has_submenu": false,
+          "link": "/View/577/ar"
+        },
+        {
+          "id": 17,
+          "name": {
+            "ar": "رسالة الجامعة",
+            "en": "University Mission"
+          },
+          "has_submenu": false,
+          "link": "/View/578/ar"
+        },
+        {
+          "id": 18,
+          "name": {
+            "ar": "اهداف الجامعة",
+            "en": "University Goals"
+          },
+          "has_submenu": false,
+          "link": "/View/579/ar"
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "name": {
+        "ar": "أعضاء هيئة التدريس",
+        "en": "Faculty Members"
+      },
+      "ui_position": "bottom",
+      "has_submenu": true,
+      "children": [
+        {
+          "id": 20,
+          "name": {
+            "ar": "بيانات الموقع الشخصي",
+            "en": "Personal Profile Data"
+          },
+          "has_submenu": false,
+          "link": "/StaffSearch/ar"
+        },
+        {
+          "id": 21,
+          "name": {
+            "ar": "السيرة الذاتية",
+            "en": "CV"
+          },
+          "has_submenu": false,
+          "link": "/StaffCVs/ar"
+        },
+        {
+          "id": 22,
+          "name": {
+            "ar": "بحث عن عضو هيئة تدريس",
+            "en": "Search for Faculty Member"
+          },
+          "has_submenu": false,
+          "link": "/StaffPage/ar"
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "name": {
+        "ar": "الكليات",
+        "en": "Colleges"
+      },
+      "ui_position": "bottom",
+      "has_submenu": true,
+      "children": [
+        {
+          "id": 20,
+          "name": {
+            "ar": "بيانات الموقع الشخصي",
+            "en": "Personal Profile Data"
+          },
+          "has_submenu": false,
+          "link": "/StaffSearch/ar"
+        },
+        {
+          "id": 21,
+          "name": {
+            "ar": "السيرة الذاتية",
+            "en": "CV"
+          },
+          "has_submenu": false,
+          "link": "/StaffCVs/ar"
+        },
+        {
+          "id": 22,
+          "name": {
+            "ar": "بحث عن عضو هيئة تدريس",
+            "en": "Search for Faculty Member"
+          },
+          "has_submenu": false,
+          "link": "/StaffPage/ar"
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "name": {
+        "ar": "الطلاب",
+        "en": "Students"
+      },
+      "ui_position": "bottom",
+      "has_submenu": true,
+      "children": [
+        {
+          "id": 20,
+          "name": {
+            "ar": "بيانات الموقع الشخصي",
+            "en": "Personal Profile Data"
+          },
+          "has_submenu": false,
+          "link": "/StaffSearch/ar"
+        },
+        {
+          "id": 21,
+          "name": {
+            "ar": "السيرة الذاتية",
+            "en": "CV"
+          },
+          "has_submenu": false,
+          "link": "/StaffCVs/ar"
+        },
+        {
+          "id": 22,
+          "name": {
+            "ar": "بحث عن عضو هيئة تدريس",
+            "en": "Search for Faculty Member"
+          },
+          "has_submenu": false,
+          "link": "/StaffPage/ar"
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "name": {
+        "ar": "الابحاث والانشطة العلمية",
+        "en": "Research and scientific activities"
+      },
+      "ui_position": "bottom",
+      "has_submenu": true,
+      "children": [
+        {
+          "id": 20,
+          "name": {
+            "ar": "بيانات الموقع الشخصي",
+            "en": "Personal Profile Data"
+          },
+          "has_submenu": false,
+          "link": "/StaffSearch/ar"
+        },
+        {
+          "id": 21,
+          "name": {
+            "ar": "السيرة الذاتية",
+            "en": "CV"
+          },
+          "has_submenu": false,
+          "link": "/StaffCVs/ar"
+        },
+        {
+          "id": 22,
+          "name": {
+            "ar": "بحث عن عضو هيئة تدريس",
+            "en": "Search for Faculty Member"
+          },
+          "has_submenu": false,
+          "link": "/StaffPage/ar"
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "name": {
+        "ar": "الجامعات المصرية",
+        "en": "Egyptian universities"
+      },
+      "ui_position": "bottom",
+      "has_submenu": true,
+      "children": [
+        {
+          "id": 20,
+          "name": {
+            "ar": "بيانات الموقع الشخصي",
+            "en": "Personal Profile Data"
+          },
+          "has_submenu": false,
+          "link": "/StaffSearch/ar"
+        },
+        {
+          "id": 21,
+          "name": {
+            "ar": "السيرة الذاتية",
+            "en": "CV"
+          },
+          "has_submenu": false,
+          "link": "/StaffCVs/ar"
+        },
+        {
+          "id": 22,
+          "name": {
+            "ar": "بحث عن عضو هيئة تدريس",
+            "en": "Search for Faculty Member"
+          },
+          "has_submenu": false,
+          "link": "/StaffPage/ar"
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "name": {
+        "ar": "اﻹعلام الجامعي",
+        "en": "Egyptian universities"
+      },
+      "ui_position": "bottom",
+      "has_submenu": true,
+      "children": [
+        {
+          "id": 20,
+          "name": {
+            "ar": "بيانات الموقع الشخصي",
+            "en": "University Media"
+          },
+          "has_submenu": false,
+          "link": "/StaffSearch/ar"
+        },
+        {
+          "id": 21,
+          "name": {
+            "ar": "السيرة الذاتية",
+            "en": "CV"
+          },
+          "has_submenu": false,
+          "link": "/StaffCVs/ar"
+        },
+        {
+          "id": 22,
+          "name": {
+            "ar": "بحث عن عضو هيئة تدريس",
+            "en": "Search for Faculty Member"
+          },
+          "has_submenu": false,
+          "link": "/StaffPage/ar"
+        }
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "id": 1,
+      "key": "en",
+      "title": "English",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/800px-Flag_of_the_United_Kingdom_%283-5%29.svg.png"
+    },
+    {
+      "id": 2,
+      "key": "ar",
+      "title": "العربية",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAUEotb-f2PvvmvtAWWHp-UNcMtOWiw9vFRA&s"
+    }
+  ]
+}
