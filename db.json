@@ -541,6 +541,140 @@
           "link": "/StaffPage/ar"
         }
       ]
+    },
+    {
+      "id": 23,
+      "name": {
+        "ar": "التحول نحو الاخضر",
+        "en": "Going green"
+      },
+      "ui_position": "floating",
+      "text_color": "#F47363",
+      "hover_text_color": "#176D6A",
+      "background_color": "#fff",
+      "url": ""
+    },
+    {
+      "id": 24,
+      "name": {
+        "ar": "المتدربين",
+        "en": "Trainees"
+      },
+      "ui_position": "floating",
+      "text_color": "#F47363",
+      "hover_text_color": "#176D6A",
+      "background_color": "#fff",
+      "url": ""
+    },
+    {
+      "id": 25,
+      "name": {
+        "ar": "التحول الرقمي",
+        "en": "Digital transformation"
+      },
+      "ui_position": "floating",
+      "text_color": "#F47363",
+      "hover_text_color": "#176D6A",
+      "background_color": "#fff",
+      "url": ""
+    },
+    {
+      "id": 26,
+      "name": {
+        "ar": "مجلة الطاقه النوويه",
+        "en": "Nuclear Energy Journal"
+      },
+      "ui_position": "floating",
+      "text_color": "#fff",
+      "hover_text_color": "#F47363",
+      "background_color": "#176D6A",
+      "url": ""
+    },
+    {
+      "id": 27,
+      "name": {
+        "ar": "التنمية المستدامه",
+        "en": "Sustainable Development"
+      },
+      "ui_position": "floating",
+      "text_color": "#fff",
+      "hover_text_color": "#F47363",
+      "background_color": "#176D6A",
+      "url": ""
+    },
+    {
+      "id": 28,
+      "name": {
+        "ar": "جامعة صديقة للبيئة",
+        "en": "Eco-friendly university"
+      },
+      "ui_position": "floating",
+      "text_color": "#fff",
+      "hover_text_color": "#F47363",
+      "background_color": "#176D6A",
+      "url": ""
+    },
+    {
+      "id": 29,
+      "name": {
+        "ar": "ارشيف الاخبار",
+        "en": "News Archive"
+      },
+      "ui_position": "floating",
+      "text_color": "#fff",
+      "hover_text_color": "#F47363",
+      "background_color": "#176D6A",
+      "url": ""
+    }
+  ],
+  "header_images": [
+    {
+      "id": 1,
+      "title": {
+        "ar": "رئيس جامعة المنوفية يلتقى مع عمداء الكليات",
+        "en": "The President of Menoufia University meets with the Deans of the Faculties"
+      },
+      "description": {
+        "ar": "رئيس جامعة المنوفية يلتقى مع عمداء الكليات",
+        "en": "The President of Menoufia University meets with the Deans of the Faculties"
+      },
+      "url": "https://www.menofia.edu.eg/PrtlFiles/uni/Portal/Images/c6150d8e-299a-44f0-af71-77581c081a3d.png"
+    },
+    {
+      "id": 2,
+      "title": {
+        "ar": "رئيس جامعة المنوفية يلتقى مع عمداء الكليات",
+        "en": "The President of Menoufia University meets with the Deans of the Faculties"
+      },
+      "description": {
+        "ar": "رئيس جامعة المنوفية يلتقى مع عمداء الكليات",
+        "en": "The President of Menoufia University meets with the Deans of the Faculties"
+      },
+      "url": "https://www.menofia.edu.eg/PrtlFiles/uni/Portal/Images/e33c93bb-f707-42ea-ad1a-91722f811353.png"
+    },
+    {
+      "id": 3,
+      "title": {
+        "ar": "رئيس جامعة المنوفية يلتقى مع عمداء الكليات",
+        "en": "The President of Menoufia University meets with the Deans of the Faculties"
+      },
+      "description": {
+        "ar": "رئيس جامعة المنوفية يلتقى مع عمداء الكليات",
+        "en": "The President of Menoufia University meets with the Deans of the Faculties"
+      },
+      "url": "https://www.menofia.edu.eg/PrtlFiles/uni/Portal/Images/eee2cec0-3d9c-44c1-8acf-efa97de54881.png"
+    },
+    {
+      "id": 4,
+      "title": {
+        "ar": "رئيس جامعة المنوفية يلتقى مع عمداء الكليات",
+        "en": "The President of Menoufia University meets with the Deans of the Faculties"
+      },
+      "description": {
+        "ar": "رئيس جامعة المنوفية يلتقى مع عمداء الكليات",
+        "en": "The President of Menoufia University meets with the Deans of the Faculties"
+      },
+      "url": "https://www.menofia.edu.eg/PrtlFiles/uni/Portal/Images/71c0c620-2c16-4d0e-8976-f73a8c43b1ba.png"
     }
   ],
   "languages": [
