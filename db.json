@@ -691,7 +691,28 @@
       "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAUEotb-f2PvvmvtAWWHp-UNcMtOWiw9vFRA&s"
     }
   ],
-  
+  "social_links": [
+    {
+      "id": 1,
+      "Icon": "Facebook",
+      "url": "https://web.facebook.com/?_rdc=2&_rdr"
+    },
+    {
+      "id": 2,
+      "Icon": "Instagram",
+      "url": "https://web.instagram.com/?_rdc=2&_rdr"
+    },
+    {
+      "id": 3,
+      "Icon": "X",
+      "url": "https://x.com/"
+    },
+    {
+      "id": 4,
+      "Icon": "WhatsApp",
+      "url": "https://wa.me/1234567890"
+    }
+  ],
   "leaders": [
     {
       "name": {
