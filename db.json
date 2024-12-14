@@ -690,5 +690,140 @@
       "title": "العربية",
       "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAUEotb-f2PvvmvtAWWHp-UNcMtOWiw9vFRA&s"
     }
+  ],
+  
+  "leaders": [
+    {
+      "name": {
+        "en": "Dr Ekramy Gamal Elsaid",
+        "ar": "د. إكرامي جمال السيد"
+      },
+      "position": {
+        "en": "Secretary General of the University",
+        "ar": "الأمين العام للجامعة"
+      },
+      "image": "../images/Dr.Ekramy.jpeg",
+      "social": [
+        {
+          "id": 1,
+          "Icon": "Facebook",
+          "url": "https://web.facebook.com/?_rdc=2&_rdr"
+        },
+        {
+          "id": 2,
+          "Icon": "Instagram",
+          "url": "https://web.instagram.com/?_rdc=2&_rdr"
+        },
+        {
+          "id": 3,
+          "Icon": "X",
+          "url": "https://x.com/"
+        },
+        {
+          "id": 4,
+          "Icon": "WhatsApp",
+          "url": "https://wa.me/1234567890"
+        }
+      ]
+    },
+    {
+      "name": {
+        "en": "Dr Sobhy",
+        "ar": "د. صبحي"
+      },
+      "position": {
+        "en": "Assistant Professor",
+        "ar": "أستاذ مساعد"
+      },
+      "image": "Dr.Sobhy.jpeg",
+      "social": [
+        {
+          "id": 1,
+          "Icon": "Facebook",
+          "url": "https://web.facebook.com/?_rdc=2&_rdr"
+        },
+        {
+          "id": 2,
+          "Icon": "Instagram",
+          "url": "https://web.instagram.com/?_rdc=2&_rdr"
+        },
+        {
+          "id": 3,
+          "Icon": "X",
+          "url": "https://x.com/"
+        },
+        {
+          "id": 4,
+          "Icon": "WhatsApp",
+          "url": "https://wa.me/1234567890"
+        }
+      ]
+    },
+    {
+      "name": {
+        "en": "Dr Nasr",
+        "ar": "د. نصار"
+      },
+      "position": {
+        "en": "Dean of Faculty",
+        "ar": "عميد الكلية"
+      },
+      "image": "Dr.Nasr.jpeg",
+      "social": [
+        {
+          "id": 1,
+          "Icon": "Facebook",
+          "url": "https://web.facebook.com/?_rdc=2&_rdr"
+        },
+        {
+          "id": 2,
+          "Icon": "Instagram",
+          "url": "https://web.instagram.com/?_rdc=2&_rdr"
+        },
+        {
+          "id": 3,
+          "Icon": "X",
+          "url": "https://x.com/"
+        },
+        {
+          "id": 4,
+          "Icon": "WhatsApp",
+          "url": "https://wa.me/1234567890"
+        }
+      ]
+    },
+    {
+      "name": {
+        "en": "Dr Ahmed",
+        "ar": "د. أحمد"
+      },
+      "position": {
+        "en": "Head of Department",
+        "ar": "رئيس القسم"
+      },
+      "image": "Dr.Ahmed.png",
+      "social": [
+        {
+          "id": 1,
+          "Icon": "Facebook",
+          "url": "https://web.facebook.com/?_rdc=2&_rdr"
+        },
+        {
+          "id": 2,
+          "Icon": "Instagram",
+          "url": "https://web.instagram.com/?_rdc=2&_rdr"
+        },
+        {
+          "id": 3,
+          "Icon": "X",
+          "url": "https://x.com/"
+        },
+        {
+          "id": 4,
+          "Icon": "WhatsApp",
+          "url": "https://wa.me/1234567890"
+        }
+      ]
+    }
   ]
 }
