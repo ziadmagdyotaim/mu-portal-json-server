@@ -845,6 +845,11 @@
           "url": "https://wa.me/1234567890"
         }
       ]
+      
     }
-  ]
+  ] , 
+  "positionCollageImage" : {
+        "arabian" : "local.png" ,
+        "locally" : ""
+      }
 }
