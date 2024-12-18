@@ -846,5 +846,84 @@
         }
       ]
     }
+  ],
+  "titles": [
+    {
+      "id": 1,
+      "ar": "عن الجامعة",
+      "en": "About the University"
+    },
+    {
+      "id": 2,
+      "ar": "جامعة المنوفية إحدى الجامعات الحكومية المصرية",
+      "en": "Menoufia University is one of the Egyptian public universities"
+    },
+    {
+      "id": 3,
+      "ar": "تقدم برامج أكاديمية ذات جودة عالية، تحكمها المعايير المحلية والعالمية؛ لإعداد خريج متميز قادر على المنافسة والإبداع، وتلبية حاجات المجتمع، والإسهام في تطوره ورفاهيته.",
+      "en": "It offers high-quality academic programs governed by local and global standards to prepare distinguished graduates capable of competing, innovating, meeting societal needs, and contributing to its development and well-being."
+    }
+  ],
+  "statistics": [
+    {
+      "id": 1,
+      "category": "faculty_members",
+      "value": 35000000,
+      "ar": "أعضاء هيئة التدريس",
+      "en": "Faculty Members"
+    },
+    {
+      "id": 2,
+      "category": "students",
+      "value": 120,
+      "ar": "الطلاب",
+      "en": "Students"
+    },
+    {
+      "id": 3,
+      "category": "graduates",
+      "value": 85,
+      "ar": "الخريجين",
+      "en": "Graduates"
+    },
+    {
+      "id": 4,
+      "category": "staff",
+      "value": 1200,
+      "ar": "طاقم العمل",
+      "en": "Staff"
+    }
+  ],
+  "names": [
+    {
+      "id": 1,
+      "ar": "أعضاء هيئة التدريس",
+      "en": "Faculty Members"
+    },
+    {
+      "id": 2,
+      "ar": "الطلاب",
+      "en": "Students"
+    },
+    {
+      "id": 3,
+      "ar": "الخريجين",
+      "en": "Graduates"
+    },
+    {
+      "id": 4,
+      "ar": "طاقم العمل",
+      "en": "Staff"
+    },
+    {
+      "id": 5,
+      "ar": "جامعة المنوفية",
+      "en": "Menoufia University"
+    },
+    {
+      "id": 6,
+      "ar": "احصائيات تظهر حجم العمل في جامعة المنوفية",
+      "en": "Statistics showing the scale of work at Menoufia University"
+    }
   ]
 }
