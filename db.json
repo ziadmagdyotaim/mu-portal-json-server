@@ -723,7 +723,7 @@
         "en": "Secretary General of the University",
         "ar": "الأمين العام للجامعة"
       },
-      "image": "../images/Dr.Ekramy.jpeg",
+      "image": "https://s3-alpha-sig.figma.com/img/0189/c0be/a75c4922108fc87ddf05d3a02e9370eb?Expires=1735516800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=TnGXe8PTa7MIZNT9LD8NZtt4cPnDmE2-kp6zN3-zA0B-2v0T3uKovBoyk5pwmz9wAmrjl-rMoChcNmGhVkt9NF68xx~vYlHDjeBncDnnVMTX5OMnIAhTfs1Gq-pjGaiBzYlDpS7S2wsPsTrOa-ow1CL8QBocz-F3L6zQ80Tn3uF7FQDaj4D0GpeH~L8~qS4rowGZdo~pRBLT1CR~8ZOXDKMnfFeQODK0Lo4htqD3gA~bL~JQKRIYlqpiRt~QOipj4iasXXbzYFGcr8Eg5IzW62Ge33TTRNLvnjywT4izatjoYO45BrpaOrWrgb63-vfEI9zqMpc4GC9URFIwoCdXNA__",
       "social": [
         {
           "id": 1,
@@ -756,7 +756,7 @@
         "en": "Assistant Professor",
         "ar": "أستاذ مساعد"
       },
-      "image": "Dr.Sobhy.jpeg",
+      "image": "https://s3-alpha-sig.figma.com/img/fab5/6671/43286e9ea737c372a7ca1a857849d71e?Expires=1735516800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=LD9rO3z-lRIupo0cZgo5WLWp1I9dTRjkn4SZIWgy6ziOF9QZLDOL4cC4RgI9g~-OcSAvtnnACR2LKd1BEWhhweo~OdOgjGesi12TlAK8UTQ3i7CW7KeR4~qwznwo40NukJ3XlCPLUVG7nTqWwICtW30H0UL8uN0WxMmzpL-pjxH2Wys3MytHyJLBOkp2VxfKofLS~IYLNzMdlBmccm98mgitLOrMZZYqK9ZMcEyrhX7ePFirgvu4LFHuvtY8Z5liKQqu7cO8V8QIrkmpJPFyN8Hdp8IbsuaQMZc1xm9lOzIBGM2tHKDkgFp~ajlHilMqFRkcPAM5s94JwbQF8YFsqQ__",
       "social": [
         {
           "id": 1,
@@ -782,14 +782,14 @@
     },
     {
       "name": {
-        "en": "Dr Nasr",
+        "en": "Dr Nasar",
         "ar": "د. نصار"
       },
       "position": {
         "en": "Dean of Faculty",
         "ar": "عميد الكلية"
       },
-      "image": "Dr.Nasr.jpeg",
+      "image": "https://s3-alpha-sig.figma.com/img/0503/6e81/a64d0fbe8d0972e5dff7d1e4b90ba1a7?Expires=1735516800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=YCIUdKmA2ju1WrioBQ2YHNEhnslWk33oODwEDptyDJLKqF182Xh2eY2SdOxf6jh5CxtpWifQVizFgk1Soxwa4DVE9f9ed3NY4dyPAUUyr03MN~nGggm~j0Lnulut6tYCyTu7F22q7gvsJ3lLKCV7zUX3RtutSEK5rsxgQ0-pjZgUUGcsM7U6I7WTITBepCd6j8gO--IrM2a-KkShAijutIf3h7IleDGtiKq~7obaeyiiYccF7nKL5iocGVCy9TZUc9Arwku1FLJoklhanQkGzBdTo4~dDlqlQ03gpGcz058INa8POEdeKa3IimevhSTgQ7YuzBaecW9kVbEIXgkWkw__",
       "social": [
         {
           "id": 1,
@@ -822,7 +822,7 @@
         "en": "Head of Department",
         "ar": "رئيس القسم"
       },
-      "image": "Dr.Ahmed.png",
+      "image": "https://s3-alpha-sig.figma.com/img/2ff1/8529/f4085a1b89955a7a550fa78707dbd07b?Expires=1735516800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=B32IZ0YhEViUdkQ7jsO-tHMAkWz~AXrdysPgBx5ZQ82PNNtBH1WNkxcj4z8piD0Lmbqc2qM-A8bbwRLi5y4hZX~dUJkrbWQLq5LA5NoMOi13xGJdb4LNnxc14dJg4PICxOepD3ClO~nlz5DVFZRJbPA8J7wDu12iXXKmHoRqWSC~DZMHn5xyok9aiOmaItckVO0mU9erRsdphmYLomGWyBb28oCQFPY6s4JDAhRw5TjXBy2tMO5Lq2UjgM1VuIATIPBS7xlAQxUflt9S3DzHHqrfT83Y8sWN7HlJ0E23bkMdQDJ52HOXxfrfR7pVM5OiPdBch9CjIfkc~c~8UjNBIw__",
       "social": [
         {
           "id": 1,
@@ -924,6 +924,131 @@
       "id": 6,
       "ar": "احصائيات تظهر حجم العمل في جامعة المنوفية",
       "en": "Statistics showing the scale of work at Menoufia University"
+    }
+  ],
+  "map_image": {
+    "locally": "https://s3-alpha-sig.figma.com/img/e397/e691/8a27dfce54f423de49d514f226ed1e4f?Expires=1735516800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=pqnw3ySfMvRqKfQERPrsfIPMaR0e9wc92962xgEVk6Pjs~z~4UrnrwVDiTdcFsYgJJEmTXtzQ41c8Gc3ybZa7aBBAWQ1xIV6kaVR2wgkoIef4i~~Ls3oOCiejCKFJ6fhvBJ1Lx1jCC6s681F6r~v9nYKjND6KmfzJLoSK2BMWRCdx~kinxO8TBJYBXZ7y~iepv73grcIr-oVm7dd~iNns0lDJyW0znjODUIYnvndC4lGa3w-L62MTtua~MaInKrcVvtxkyPXN1DLNLeFhNJt2SJ~X1~Ju9D~zsEgXj5d~Gi29SaeYHl8LJTLU-3SAQMt~6phmXymm11w4ckde1C4hQ__",
+    "arabian": "https://s3-alpha-sig.figma.com/img/79b1/eb79/eba3a2330e79906296ade5277fd38460?Expires=1735516800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=Ex~E-yKPLtSu7OHYgV-nyRPj8PBkHUOPZ09PFLuM4Ihy29WR7u0gQ2awCJ6jY1E-q8MfznkdvtCjzvms1AMhS3~UcEIXvKPcvRoKojd5KcXG-KOVr57B7sP6fHO0f-WmJIdNtl3cM0hCMmTAMf2z9NQEIyIr9vVmlJ2W-5xvgpt17LfccVgzw1a02PVhx2Rw4T7R1D8K-gK9EZ2wJNQmR329iqiqc4xEQvh~3QZTa-Fmir21yNe-3hEqf6-Rmy2K5YoWxHGvMqUqBl9-veIw8JCIvrQoPQAAZMevI575b6tgWFBuGbbprEOzoN~wMeq3Iph64bUVKb2ow7bVRLcKCg__"
+  },
+  "ar_news": [
+    {
+      "newId": 1,
+      "title": "رئيس جامعة المنوفية يعقد إجتماع مجلس الدراسات العليا  أون لاين ",
+      "content": "الكاتب: ادارة الاعلام-الادارة العامة للتعاقدات العامة والاعلام 2024",
+      "images": [
+        {
+          "imagePath": "https://s3-alpha-sig.figma.com/img/36a6/20ef/43160da7468eca2d84ca495eb39ee8aa?Expires=1735516800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=gnweT4KX~aeGHbJFT0gtQHagPlhxiICBsvC12D8GBpCa0v6Hfd-~rvzrNmXkixzwLucmqb2Nr0GzIxfF-ZO5A8dFINeC8G7RYRzbHGbP-GtN~d-TugjRfiQcyTmYkzX14-92c7DtIPK4SfZo7YaH6eETFj7kWspKcv2lRYx-oirmJgNp7dZdTV3-V54ZwK3CD5A~F0ybO6675fiHwwo9j7IDElY18PDzmMZuFWYpYy58tfufKVKrU56jjq-quQps1YzVc2Oku4t0bMo8OWMTyxR-lVrDnyOvKLkBp7YSPJnbU6RO2oYBskbw8vnq~M1xmoBZry9AzMmBZQ0ANUPLLA__"
+        },
+        {
+          "imagePath": "https://s3-alpha-sig.figma.com/img/d2ca/d43f/d3100a04e0d8af3bc9392b1872be47d9?Expires=1735516800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=oUtRYZdl73NrLcLL-Op7URbGgVvPMaVNuQHXUNRbK7Zm1ObP9Fc~sl-g1RVe~mwFLm7YLjUBkN~w75KacKsUDS6bzunVhWUD1NYJWwDAZbKqp9qz8PDdCjFQYNuj4zdS1oCPB4J5xgRnf~mhsdrjKoqHEle-d9N~LK8Zrq1AT-Dve3nPe~DqJ4k4UhTdtDlXp25JufFPJbczhBAg89GsPDscWRWD1nEHKSIkKl3a06bi8hv5iwJLIAkSyUXJYNzAFGSD26IQM7ImF6sgjRXaleOClzJ3S4MNOddwXswlbPuFVuH0PJbabGVHlraOmEo20N0sGB3RZ-2iJn-TOML5pw__"
+        },
+        {
+          "imagePath": "https://s3-alpha-sig.figma.com/img/d45f/5b19/2e8fe857bc6cbbfc4301dc68487da739?Expires=1735516800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=S3~DLG4P3kqq7kTm~CYWjMwkc4F5hWIRdTo13U192sF01Lmv7VzM9BaNO~GpdDHV~nprQLKMGc0BMFyI4Z8j~G-fNhHGuCVTOglu-2DESSk9PVJLOXnCz-Qq92vsCgvHtOs3Ts~BH7-PleibLDQPhLSEMfiRTUMMjJemEQm3MXX86WMsQ0vZCeNGu3VvCd8Tm81wRDCzIVJSF8tZpKDTag3h9ZcsANcktqKgN~sxQTSLHeE9kDJdW8r0i0YDKCldOl5evcAAgT6FxpZXfArrNKnfNUEqLjRBvXjCsKMO2V~4h4ag18CV-qLNOT6WNtuOhlw-49xKsfD1ch2XVACURQ__"
+        }
+      ],
+      "isFeatured": false,
+      "published": true,
+      "publishedDate": "2024-02-08T00:00:00"
+    },
+    {
+      "newId": 2,
+      "title": "رئيس جامعة المنوفية يعقد إجتماع مجلس الدراسات العليا  أون لاين ",
+      "content": "الكاتب: ادارة الاعلام-الادارة العامة للتعاقدات العامة والاعلام 2024",
+      "images": [
+        {
+          "imagePath": "https://s3-alpha-sig.figma.com/img/d2ca/d43f/d3100a04e0d8af3bc9392b1872be47d9?Expires=1735516800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=oUtRYZdl73NrLcLL-Op7URbGgVvPMaVNuQHXUNRbK7Zm1ObP9Fc~sl-g1RVe~mwFLm7YLjUBkN~w75KacKsUDS6bzunVhWUD1NYJWwDAZbKqp9qz8PDdCjFQYNuj4zdS1oCPB4J5xgRnf~mhsdrjKoqHEle-d9N~LK8Zrq1AT-Dve3nPe~DqJ4k4UhTdtDlXp25JufFPJbczhBAg89GsPDscWRWD1nEHKSIkKl3a06bi8hv5iwJLIAkSyUXJYNzAFGSD26IQM7ImF6sgjRXaleOClzJ3S4MNOddwXswlbPuFVuH0PJbabGVHlraOmEo20N0sGB3RZ-2iJn-TOML5pw__"
+        },
+        {
+          "imagePath": "https://s3-alpha-sig.figma.com/img/d45f/5b19/2e8fe857bc6cbbfc4301dc68487da739?Expires=1735516800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=S3~DLG4P3kqq7kTm~CYWjMwkc4F5hWIRdTo13U192sF01Lmv7VzM9BaNO~GpdDHV~nprQLKMGc0BMFyI4Z8j~G-fNhHGuCVTOglu-2DESSk9PVJLOXnCz-Qq92vsCgvHtOs3Ts~BH7-PleibLDQPhLSEMfiRTUMMjJemEQm3MXX86WMsQ0vZCeNGu3VvCd8Tm81wRDCzIVJSF8tZpKDTag3h9ZcsANcktqKgN~sxQTSLHeE9kDJdW8r0i0YDKCldOl5evcAAgT6FxpZXfArrNKnfNUEqLjRBvXjCsKMO2V~4h4ag18CV-qLNOT6WNtuOhlw-49xKsfD1ch2XVACURQ__"
+        },
+        {
+          "imagePath": "https://s3-alpha-sig.figma.com/img/36a6/20ef/43160da7468eca2d84ca495eb39ee8aa?Expires=1735516800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=gnweT4KX~aeGHbJFT0gtQHagPlhxiICBsvC12D8GBpCa0v6Hfd-~rvzrNmXkixzwLucmqb2Nr0GzIxfF-ZO5A8dFINeC8G7RYRzbHGbP-GtN~d-TugjRfiQcyTmYkzX14-92c7DtIPK4SfZo7YaH6eETFj7kWspKcv2lRYx-oirmJgNp7dZdTV3-V54ZwK3CD5A~F0ybO6675fiHwwo9j7IDElY18PDzmMZuFWYpYy58tfufKVKrU56jjq-quQps1YzVc2Oku4t0bMo8OWMTyxR-lVrDnyOvKLkBp7YSPJnbU6RO2oYBskbw8vnq~M1xmoBZry9AzMmBZQ0ANUPLLA__"
+        }
+      ],
+      "isFeatured": false,
+      "published": true,
+      "publishedDate": "2024-02-02T00:00:00"
+    },
+    {
+      "newId": 3,
+      "title": "رئيس جامعة المنوفية يعقد إجتماع مجلس الدراسات العليا  أون لاين ",
+      "content": "الكاتب: ادارة الاعلام-الادارة العامة للتعاقدات العامة والاعلام 2024",
+      "images": [
+        {
+          "imagePath": "https://s3-alpha-sig.figma.com/img/d45f/5b19/2e8fe857bc6cbbfc4301dc68487da739?Expires=1735516800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=S3~DLG4P3kqq7kTm~CYWjMwkc4F5hWIRdTo13U192sF01Lmv7VzM9BaNO~GpdDHV~nprQLKMGc0BMFyI4Z8j~G-fNhHGuCVTOglu-2DESSk9PVJLOXnCz-Qq92vsCgvHtOs3Ts~BH7-PleibLDQPhLSEMfiRTUMMjJemEQm3MXX86WMsQ0vZCeNGu3VvCd8Tm81wRDCzIVJSF8tZpKDTag3h9ZcsANcktqKgN~sxQTSLHeE9kDJdW8r0i0YDKCldOl5evcAAgT6FxpZXfArrNKnfNUEqLjRBvXjCsKMO2V~4h4ag18CV-qLNOT6WNtuOhlw-49xKsfD1ch2XVACURQ__"
+        },
+        {
+          "imagePath": "https://s3-alpha-sig.figma.com/img/36a6/20ef/43160da7468eca2d84ca495eb39ee8aa?Expires=1735516800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=gnweT4KX~aeGHbJFT0gtQHagPlhxiICBsvC12D8GBpCa0v6Hfd-~rvzrNmXkixzwLucmqb2Nr0GzIxfF-ZO5A8dFINeC8G7RYRzbHGbP-GtN~d-TugjRfiQcyTmYkzX14-92c7DtIPK4SfZo7YaH6eETFj7kWspKcv2lRYx-oirmJgNp7dZdTV3-V54ZwK3CD5A~F0ybO6675fiHwwo9j7IDElY18PDzmMZuFWYpYy58tfufKVKrU56jjq-quQps1YzVc2Oku4t0bMo8OWMTyxR-lVrDnyOvKLkBp7YSPJnbU6RO2oYBskbw8vnq~M1xmoBZry9AzMmBZQ0ANUPLLA__"
+        },
+        {
+          "imagePath": "https://s3-alpha-sig.figma.com/img/d2ca/d43f/d3100a04e0d8af3bc9392b1872be47d9?Expires=1735516800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=oUtRYZdl73NrLcLL-Op7URbGgVvPMaVNuQHXUNRbK7Zm1ObP9Fc~sl-g1RVe~mwFLm7YLjUBkN~w75KacKsUDS6bzunVhWUD1NYJWwDAZbKqp9qz8PDdCjFQYNuj4zdS1oCPB4J5xgRnf~mhsdrjKoqHEle-d9N~LK8Zrq1AT-Dve3nPe~DqJ4k4UhTdtDlXp25JufFPJbczhBAg89GsPDscWRWD1nEHKSIkKl3a06bi8hv5iwJLIAkSyUXJYNzAFGSD26IQM7ImF6sgjRXaleOClzJ3S4MNOddwXswlbPuFVuH0PJbabGVHlraOmEo20N0sGB3RZ-2iJn-TOML5pw__"
+        }
+      ],
+      "isFeatured": false,
+      "published": true,
+      "publishedDate": "2024-02-02T00:00:00"
+    }
+  ],
+  "en_news": [
+    {
+      "newId": 1,
+      "englishTitle": "President of Menoufia University holds a meeting of the Graduate Studies Council online",
+
+      "englishContent": "Author: Media Department - General Administration of Public Contracting and Media 2024",
+      "images": [
+        {
+          "imagePath": "https://s3-alpha-sig.figma.com/img/36a6/20ef/43160da7468eca2d84ca495eb39ee8aa?Expires=1735516800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=gnweT4KX~aeGHbJFT0gtQHagPlhxiICBsvC12D8GBpCa0v6Hfd-~rvzrNmXkixzwLucmqb2Nr0GzIxfF-ZO5A8dFINeC8G7RYRzbHGbP-GtN~d-TugjRfiQcyTmYkzX14-92c7DtIPK4SfZo7YaH6eETFj7kWspKcv2lRYx-oirmJgNp7dZdTV3-V54ZwK3CD5A~F0ybO6675fiHwwo9j7IDElY18PDzmMZuFWYpYy58tfufKVKrU56jjq-quQps1YzVc2Oku4t0bMo8OWMTyxR-lVrDnyOvKLkBp7YSPJnbU6RO2oYBskbw8vnq~M1xmoBZry9AzMmBZQ0ANUPLLA__"
+        },
+        {
+          "imagePath": "https://s3-alpha-sig.figma.com/img/d2ca/d43f/d3100a04e0d8af3bc9392b1872be47d9?Expires=1735516800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=oUtRYZdl73NrLcLL-Op7URbGgVvPMaVNuQHXUNRbK7Zm1ObP9Fc~sl-g1RVe~mwFLm7YLjUBkN~w75KacKsUDS6bzunVhWUD1NYJWwDAZbKqp9qz8PDdCjFQYNuj4zdS1oCPB4J5xgRnf~mhsdrjKoqHEle-d9N~LK8Zrq1AT-Dve3nPe~DqJ4k4UhTdtDlXp25JufFPJbczhBAg89GsPDscWRWD1nEHKSIkKl3a06bi8hv5iwJLIAkSyUXJYNzAFGSD26IQM7ImF6sgjRXaleOClzJ3S4MNOddwXswlbPuFVuH0PJbabGVHlraOmEo20N0sGB3RZ-2iJn-TOML5pw__"
+        },
+        {
+          "imagePath": "https://s3-alpha-sig.figma.com/img/d45f/5b19/2e8fe857bc6cbbfc4301dc68487da739?Expires=1735516800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=S3~DLG4P3kqq7kTm~CYWjMwkc4F5hWIRdTo13U192sF01Lmv7VzM9BaNO~GpdDHV~nprQLKMGc0BMFyI4Z8j~G-fNhHGuCVTOglu-2DESSk9PVJLOXnCz-Qq92vsCgvHtOs3Ts~BH7-PleibLDQPhLSEMfiRTUMMjJemEQm3MXX86WMsQ0vZCeNGu3VvCd8Tm81wRDCzIVJSF8tZpKDTag3h9ZcsANcktqKgN~sxQTSLHeE9kDJdW8r0i0YDKCldOl5evcAAgT6FxpZXfArrNKnfNUEqLjRBvXjCsKMO2V~4h4ag18CV-qLNOT6WNtuOhlw-49xKsfD1ch2XVACURQ__"
+        }
+      ],
+      "isFeatured": false,
+      "published": true,
+      "publishedDate": "2024-02-02T00:00:00"
+    },
+    {
+      "newId": 2,
+      "englishTitle": "President of Menoufia University holds a meeting of the Graduate Studies Council online",
+
+      "englishContent": "Author: Media Department - General Administration of Public Contracting and Media 2024",
+      "images": [
+        {
+          "imagePath": "https://s3-alpha-sig.figma.com/img/d45f/5b19/2e8fe857bc6cbbfc4301dc68487da739?Expires=1735516800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=S3~DLG4P3kqq7kTm~CYWjMwkc4F5hWIRdTo13U192sF01Lmv7VzM9BaNO~GpdDHV~nprQLKMGc0BMFyI4Z8j~G-fNhHGuCVTOglu-2DESSk9PVJLOXnCz-Qq92vsCgvHtOs3Ts~BH7-PleibLDQPhLSEMfiRTUMMjJemEQm3MXX86WMsQ0vZCeNGu3VvCd8Tm81wRDCzIVJSF8tZpKDTag3h9ZcsANcktqKgN~sxQTSLHeE9kDJdW8r0i0YDKCldOl5evcAAgT6FxpZXfArrNKnfNUEqLjRBvXjCsKMO2V~4h4ag18CV-qLNOT6WNtuOhlw-49xKsfD1ch2XVACURQ__"
+        },
+        {
+          "imagePath": "https://s3-alpha-sig.figma.com/img/36a6/20ef/43160da7468eca2d84ca495eb39ee8aa?Expires=1735516800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=gnweT4KX~aeGHbJFT0gtQHagPlhxiICBsvC12D8GBpCa0v6Hfd-~rvzrNmXkixzwLucmqb2Nr0GzIxfF-ZO5A8dFINeC8G7RYRzbHGbP-GtN~d-TugjRfiQcyTmYkzX14-92c7DtIPK4SfZo7YaH6eETFj7kWspKcv2lRYx-oirmJgNp7dZdTV3-V54ZwK3CD5A~F0ybO6675fiHwwo9j7IDElY18PDzmMZuFWYpYy58tfufKVKrU56jjq-quQps1YzVc2Oku4t0bMo8OWMTyxR-lVrDnyOvKLkBp7YSPJnbU6RO2oYBskbw8vnq~M1xmoBZry9AzMmBZQ0ANUPLLA__"
+        },
+        {
+          "imagePath": "https://s3-alpha-sig.figma.com/img/d2ca/d43f/d3100a04e0d8af3bc9392b1872be47d9?Expires=1735516800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=oUtRYZdl73NrLcLL-Op7URbGgVvPMaVNuQHXUNRbK7Zm1ObP9Fc~sl-g1RVe~mwFLm7YLjUBkN~w75KacKsUDS6bzunVhWUD1NYJWwDAZbKqp9qz8PDdCjFQYNuj4zdS1oCPB4J5xgRnf~mhsdrjKoqHEle-d9N~LK8Zrq1AT-Dve3nPe~DqJ4k4UhTdtDlXp25JufFPJbczhBAg89GsPDscWRWD1nEHKSIkKl3a06bi8hv5iwJLIAkSyUXJYNzAFGSD26IQM7ImF6sgjRXaleOClzJ3S4MNOddwXswlbPuFVuH0PJbabGVHlraOmEo20N0sGB3RZ-2iJn-TOML5pw__"
+        }
+      ],
+      "isFeatured": false,
+      "published": true,
+      "publishedDate": "2024-02-02T00:00:00"
+    },
+    {
+      "newId": 3,
+      "englishTitle": "President of Menoufia University holds a meeting of the Graduate Studies Council online",
+
+      "englishContent": "Author: Media Department - General Administration of Public Contracting and Media 2024",
+      "images": [
+        {
+          "imagePath": "https://s3-alpha-sig.figma.com/img/d45f/5b19/2e8fe857bc6cbbfc4301dc68487da739?Expires=1735516800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=S3~DLG4P3kqq7kTm~CYWjMwkc4F5hWIRdTo13U192sF01Lmv7VzM9BaNO~GpdDHV~nprQLKMGc0BMFyI4Z8j~G-fNhHGuCVTOglu-2DESSk9PVJLOXnCz-Qq92vsCgvHtOs3Ts~BH7-PleibLDQPhLSEMfiRTUMMjJemEQm3MXX86WMsQ0vZCeNGu3VvCd8Tm81wRDCzIVJSF8tZpKDTag3h9ZcsANcktqKgN~sxQTSLHeE9kDJdW8r0i0YDKCldOl5evcAAgT6FxpZXfArrNKnfNUEqLjRBvXjCsKMO2V~4h4ag18CV-qLNOT6WNtuOhlw-49xKsfD1ch2XVACURQ__"
+        },
+        {
+          "imagePath": "https://s3-alpha-sig.figma.com/img/36a6/20ef/43160da7468eca2d84ca495eb39ee8aa?Expires=1735516800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=gnweT4KX~aeGHbJFT0gtQHagPlhxiICBsvC12D8GBpCa0v6Hfd-~rvzrNmXkixzwLucmqb2Nr0GzIxfF-ZO5A8dFINeC8G7RYRzbHGbP-GtN~d-TugjRfiQcyTmYkzX14-92c7DtIPK4SfZo7YaH6eETFj7kWspKcv2lRYx-oirmJgNp7dZdTV3-V54ZwK3CD5A~F0ybO6675fiHwwo9j7IDElY18PDzmMZuFWYpYy58tfufKVKrU56jjq-quQps1YzVc2Oku4t0bMo8OWMTyxR-lVrDnyOvKLkBp7YSPJnbU6RO2oYBskbw8vnq~M1xmoBZry9AzMmBZQ0ANUPLLA__"
+        },
+        {
+          "imagePath": "https://s3-alpha-sig.figma.com/img/d2ca/d43f/d3100a04e0d8af3bc9392b1872be47d9?Expires=1735516800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=oUtRYZdl73NrLcLL-Op7URbGgVvPMaVNuQHXUNRbK7Zm1ObP9Fc~sl-g1RVe~mwFLm7YLjUBkN~w75KacKsUDS6bzunVhWUD1NYJWwDAZbKqp9qz8PDdCjFQYNuj4zdS1oCPB4J5xgRnf~mhsdrjKoqHEle-d9N~LK8Zrq1AT-Dve3nPe~DqJ4k4UhTdtDlXp25JufFPJbczhBAg89GsPDscWRWD1nEHKSIkKl3a06bi8hv5iwJLIAkSyUXJYNzAFGSD26IQM7ImF6sgjRXaleOClzJ3S4MNOddwXswlbPuFVuH0PJbabGVHlraOmEo20N0sGB3RZ-2iJn-TOML5pw__"
+        }
+      ],
+      "isFeatured": false,
+      "published": true,
+      "publishedDate": "2024-02-02T00:00:00"
     }
   ]
 }
