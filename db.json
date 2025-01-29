@@ -163,7 +163,7 @@
             "en": "University President Sector"
           },
           "has_submenu": false,
-          "link": "http://mu.menofia.edu.eg/univpres"
+          "link": "/second_layout"
         },
         {
           "id": 3,
@@ -172,7 +172,7 @@
             "en": "Vice Sector for Student Affairs"
           },
           "has_submenu": false,
-          "link": "http://mu.menofia.edu.eg/educ"
+          "link": "/second_layout"
         },
         {
           "id": 4,
@@ -181,7 +181,7 @@
             "en": "Vice Sector for Community Service"
           },
           "has_submenu": false,
-          "link": "http://mu.menofia.edu.eg/env"
+          "link": "/second_layout"
         },
         {
           "id": 5,
@@ -190,7 +190,7 @@
             "en": "Vice Sector for Postgraduate Studies and Research"
           },
           "has_submenu": false,
-          "link": "http://mu.menofia.edu.eg/postgrad"
+          "link": "/second_layout"
         },
         {
           "id": 6,
@@ -227,7 +227,7 @@
                 "en": "University President"
               },
               "has_submenu": false,
-              "link": "/View/39373/ar"
+              "link": "/second_layout"
             },
             {
               "id": 10,
