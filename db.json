@@ -1055,5 +1055,120 @@
       "num_of_visits": 150,
       "publishedDate": "2024-02-02T00:00:00"
     }
-  ]
+  ],
+  "l2_news": [
+    {
+      "id": 1,
+      "image": "https://s3-alpha-sig.figma.com/img/556e/f6f2/37eba4b0483521b4644299188fb5f2b1?Expires=1739145600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=HdCa6EQTlFDcr0A44Pxk9SNJQDgqr~CDOCu0OhituQvBV1WkU-caucFOd67aI-~NU01xuqFJ-To1CRsTGoI7xQzhzG34~17L0nyRRzBKFPVhqAt9OIupc5zVyzZ43Y-fCbT1qZoL2-3OwXKLXYP1uM2r3-7AywXsTqDCd4jzVU~qBur3TqQXWe-lBWKq146zKe4Ca2jxJesqbbfYmBS4jk7IjNgRP9RnVRCDZs5Xy7Xwmu2a2shRZ5I0qoTtZdLyZvx70seN1LJBZpv8igGGCWStwCdAmamFcEI7KupPf9fi4cq~hmOeMY4c8zlqy~aPltdRWpRfJYEn7RobO~wb~w__",
+      "title": {
+        "ar": "عنوان الخبر الأول",
+        "en": "First News Title",
+        "fr": "Titre de la première nouvelle"
+      },
+      "date": "2025-01-28",
+      "description": {
+        "ar": "جامعة المنوفية تشارك في التصفيات النهائية لمنافسات القارئ الماسي ",
+        "en": "Menoufia University participates in the final qualifiers for the Diamond Reader competition",
+        "fr": "L'Université de Menoufia participe aux qualifications finales du concours Diamond Reader"
+      },
+      "views": 120
+    },
+    {
+      "id": 2,
+      "image": "https://s3-alpha-sig.figma.com/img/c75b/e802/597f58d5770524bd3c34ae75951b6f23?Expires=1739145600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=Lq0DJkaRETpzecWSJ~Q8WWzy83FMBYCKjuO79ziubun4~Z7G0mmy2w408A77lie-rpaqR1kFVwjsAmDPwUCDHmWTcMi308U1DRedqKGSth3JblCJrXXE1ZD~56xckPD2BDc3pNVpPnMEFBx8delnUzYQ0Uae5tsJTL-tKKnfkIbDmyY8zccDikt6kVy6ZQz1I0YyLInyv1GDVLYIakjsNUJlGxSyoM53k42p8WQoaGCjX3XUAwcMRcCnf1TjlF~xv~-DXAaTqhb~U0gjV1b46Xs-4ZsJGGrFyKKY-eynob0I6yiCNCFlxpkQRTg7dZUPXYdvf9p~k6B5066CWgur1g__",
+      "title": {
+        "ar": "عنوان الخبر الثاني",
+        "en": "Second News Title",
+        "fr": "Titre de la deuxième nouvelle"
+      },
+      "date": "2025-01-28",
+      "description": {
+        "ar": "جامعة المنوفية تحصد المركز الأول بدورة الشهيد الرفاعي لكرة القدم",
+        "en": "Menoufia University wins first place in the Shahid Al-Rifai football tournament",
+        "fr": "L'Université de Menoufia remporte la première place au tournoi de football Shahid Al-Rifai"
+      },
+      "views": 95
+    },
+    {
+      "id": 3,
+      "image": "https://s3-alpha-sig.figma.com/img/54e0/5f0f/fc0e4982d41bce9a5abfe385df1bb88a?Expires=1739145600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=fVb9a2enktRtQ9gmtKf0qA4IPKa0T04MKPxxHBi5codzQsJhSI0OwdzcKCwAAnFKy0MK09~NqIxZdhfvCWK1f-F3esKGEb-YdP7d~McZXQumkL4xCIUkslZIogXTNKau4R2uIsREqC3hF3ZhBDAwUi2-Ji26jK3XVeiSrzLm5sxVWM85y78Cvsbbdw38LymwdAkhRPakLgTfZUqJl3M0GGHI-8cxUr~Q5bnkLkmAJiv1XCILMurd4EOxZePlcDNDyEao8Qe4RcfEnh7mwrG8ZP1jqDCdnOkH1XzuBfZ8xpvmftgZuswSUHqrjZiVDo6O78l3TTzh6wLgW3y2FaF-rg__",
+      "title": {
+        "ar": "عنوان الخبر الثالث",
+        "en": "Third News Title",
+        "fr": "Titre de la troisième nouvelle"
+      },
+      "date": "2025-01-27",
+      "description": {
+        "ar": "عبدالباري يتفقد اختبار القدرات بكلية التربية الرياضية",
+        "en": "Abdul-Bari inspects the aptitude test at the College of Physical Education",
+        "fr": "Abdul-Bari inspecte le test d'aptitude à la Faculté d'éducation physique"
+      },
+      "views": 130
+    },
+    {
+      "id": 4,
+      "image": "https://s3-alpha-sig.figma.com/img/c3f9/a160/341dc741d18b332df970b9863c4fee6b?Expires=1739145600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=kSHtsFRopHpk04tTH7eLe8lHOq0FS8jzxd3X79LDn7kwEPCLQVvquUuH7yOQg1JTeD7SmOQQJVvdJbdZ0CDwUD0mKTh9scJrkHPF0jj3nTA6TU46TJV4QKVDEbh~Uvlv77X~azzQ2T3-6Y-qh4JH09EztLoNoJnrGCeRD-dm72b3vf1JuMQ1BU8Dm1YQmkIHDSGDprITQfjkD7zw0yI-Q-xUTNjJZOp~dSSktfgX83oWsBSJR26h6y9qmb752uAXg385~SvCMcQdPaRbOAf6xPjWqTp3lxKPZufaL8imSiuX9csTPzh44CX78lkY4gWypwOZZy89TBURwNjblce9Xw__",
+      "title": {
+        "ar": "عنوان الخبر الرابع",
+        "en": "Fourth News Title",
+        "fr": "Titre de la quatrième nouvelle"
+      },
+      "date": "2025-01-27",
+      "description": {
+        "ar": "طلاب تجارة المنوفية في ثالث فعاليات نموذج محاكاة النظام المصرفي ببنك مصر",
+        "en": "Menoufia commerce students in the third banking system simulation model activity at the Bank of Egypt",
+        "fr": "Les étudiants en commerce de Menoufia participent à la troisième activité de modèle de simulation du système bancaire à la Banque d'Égypte"
+      },
+      "views": 80
+    },
+    {
+      "id": 5,
+      "image": "https://s3-alpha-sig.figma.com/img/b5a5/5652/c292f24479da6671aada9653ea57a01c?Expires=1739145600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=OOklRYeWct4L~iiXj4~nIdEIlXGOQCx~eHYD8y33eiKEoHHotMT~iuvNyeCMRMEbzpJzgHYDZ8Kk1eBsw-7Q4zPo34V5wmjqAYwiqE3QvmDY1MLyxCRncAYqGsphoNMEVQBxn93vaA1OlpZw8PgdjOGIp9EZGK-Er-ofImsYnEDmHmalzLQT~~9-c9SBGRNGpw7EgpGrzi2F9-8Hcctdm9dqhCxXk088ZZVANswsKeKVbQ9H~4wFWlCh8dIzRzXWH7WH~VFEfm1~qqYmcOMhVM~-ucENHyBJsCdOVghuG4-W8Wl1o06Z5O1qAV8cVRGUe1qWcaiV9iJP7VPgUwqYEg__",
+      "title": {
+        "ar": "عنوان الخبر الخامس",
+        "en": "Fifth News Title",
+        "fr": "Titre de la cinquième nouvelle"
+      },
+      "date": "2025-01-26",
+      "description": {
+        "ar": "فريق كورال جامعة المنوفية يشارك بفقرات غنائية في لقاء التكنولوجيا وأثرها المجتمعي",
+        "en": "The Menoufia University choral team participates in singing performances in the meeting on technology and its societal impact",
+        "fr": "L'équipe chorale de l'Université de Menoufia participe à des performances de chant à la rencontre sur la technologie et son impact sociétal"
+      },
+      "views": 150
+    },
+    {
+      "id": 6,
+      "image": "https://s3-alpha-sig.figma.com/img/11b3/e409/37750ec4942f47dc7a989a9f7934d91b?Expires=1739145600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=Aa3id1oeQoLvhFBWuI4MOIvLVBTc4yJRJWaDXqqyPv~bllD-yYncIxMdMP660DaXYyFPvWFVJgm6NkWVn2NXRezIJvxuVNu~tqqKwAzHXZpYjKA73t5EGYARDywG8iCJ8EWBv8rdxxsosdjq9opr0iCgUuLt3gmmffJFsPy1MJK0JDJ10-b-d7nsrPX0Z-peyON1qnIMelnsOpWrn65itcxdCT4AvN5jijN2b4qZZ5mFFqR6~ExOVid9i8nEgdq7hvX8OAU-eIeWjaB2KBFz0CU3~2wFIGsybIc3ii-uIGE~7TbVO-I5XJhaXke7qhEWk1uB6jDeauH6Viw~W1Xd7g__",
+      "title": {
+        "ar": "عنوان الخبر السادس",
+        "en": "Sixth News Title",
+        "fr": "Titre de la sixième nouvelle"
+      },
+      "date": "2025-01-26",
+      "description": {
+        "ar": "هندسة المنوفية تحصد المركز الأول في busines  بمسابقة رالي السيارات الكهربائية ",
+        "en": "Menoufia Engineering wins first place in the busines electric car rally competition",
+        "fr": "Menoufia Engineering remporte la première place au concours de rallye de voitures électriques pour entreprises"
+      },
+      "views": 200
+    }
+  ],
+  "l2_news_labels": {
+    "news": {
+      "ar": "الأخبار",
+      "en": "News",
+      "fr": "Actualités"
+    },
+    "more_news": {
+      "ar": "المزيد من الأخبار",
+      "en": "More news",
+      "fr": "Plus de nouvelles"
+    },
+    "read_more": {
+      "ar": "اقرأ المزيد",
+      "en": "Read more",
+      "fr": "Lire la suite"
+    }
+  }
 }
