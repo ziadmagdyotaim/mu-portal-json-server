@@ -845,11 +845,141 @@
           "url": "https://wa.me/1234567890"
         }
       ]
-      
     }
-  ] , 
-  "positionCollageImage" : {
-        "arabian" : "local.png" ,
-        "locally" : ""
-      }
+  ],
+  "positionCollageImage": {
+    "arabian": "local.png",
+    "locally": ""
+  },
+  "Footer": [
+    {
+      "name": {
+        "en": "Important Links",
+        "ar": "روابط هامة"
+      },
+      "image": "LogoUniversity.png",
+      "links": [
+        {
+          "en": "About the University",
+          "ar": "عن الجامعة"
+        },
+        {
+          "en": "University Administration",
+          "ar": "ادارة الجامعة"
+        },
+        {
+          "en": "Statistical Data",
+          "ar": "بيانات احصائية"
+        },
+        {
+          "en": "University Rankings",
+          "ar": "الجامعة في الصف"
+        },
+        {
+          "en": "University Maps",
+          "ar": "ذرائط الجامعة"
+        },
+        {
+          "en": "University Location on Google Maps",
+          "ar": "مقر الجامعة بذرائط جودل"
+        },
+        {
+          "en": "University Secondary Report",
+          "ar": "التقرير الثانوي للجامعة"
+        }
+      ]
+    },
+    {
+      "name": {
+        "en": "Student Services",
+        "ar": "خدمات الطالب"
+      },
+      "links": [
+        {
+          "en": "Student Sector",
+          "ar": "قطاع الطالب"
+        },
+        {
+          "en": "Absentee Management",
+          "ar": "ادارة الواقصين"
+        },
+        {
+          "en": "Student Services",
+          "ar": "خدمات الطالب"
+        },
+        {
+          "en": "Student Advisor",
+          "ar": "استاذ الطالب"
+        },
+        {
+          "en": "Student Email",
+          "ar": "البريد الالكتروني للطلب"
+        },
+        {
+          "en": "Academic Programs and Courses",
+          "ar": "البرامج الاكاديمية والمقررات"
+        },
+        {
+          "en": "Military Education Management",
+          "ar": "ادارة التربية العسكرية"
+        }
+      ]
+    },
+    {
+      "name": {
+        "en": "Faculty Services",
+        "ar": "خدمات هيئة التدريس"
+      },
+      "links": [
+        {
+          "en": "Faculty Members",
+          "ar": "اعضاء هيئة التدريس"
+        },
+        {
+          "en": "Faculty Services",
+          "ar": "خدمات اعضاء هيئة التدريس"
+        },
+        {
+          "en": "Search for Faculty Members",
+          "ar": "البحث عن اعضاء هيئة التدريس"
+        },
+        {
+          "en": "Faculty Club",
+          "ar": "نادي اعضاء هيئة التدريس"
+        },
+        {
+          "en": "Medical Care Unit",
+          "ar": "وحدة الرعاية الطبية"
+        }
+      ],
+      "contact": {
+        "email": "portal@gmail.com",
+        "ph": "1234567890"
+      } ,
+      "social" : [
+        {
+          "id": 1,
+          "Icon": "Facebook",
+          "url": "https://web.facebook.com/?_rdc=2&_rdr"
+        },
+        {
+          "id": 2,
+          "Icon": "Instagram",
+          "url": "https://web.instagram.com/?_rdc=2&_rdr"
+        },
+        {
+          "id": 3,
+          "Icon": "LinkedIn",
+          "url": "https://linkedIn.com/"
+        },
+        {
+          "id": 4,
+          "Icon": "WhatsApp",
+          "url": "https://wa.me/1234567890"
+        }
+      ]
+    } 
+   
+      ] 
+     
 }
