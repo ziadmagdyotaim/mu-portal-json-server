@@ -1306,4 +1306,69 @@
       "fr": "Lire la suite"
     }
   }
+  ,
+  "overView":
+  {
+    "title": {
+      "en": "Sector Overview",
+      "ar": "نظرة عامة على القطاع"
+    },
+    "images": [
+      { "type": "box", "color": "bg-[#F8F2D8]", "size": "w-16 h-16" },
+      { "type": "image", "src": "/assets/images/o1.jpeg", "size": "w-24 h-24" },
+      { "type": "box", "color": "bg-[#F8F2D8]", "size": "w-16 h-16" },
+      { "type": "image", "src": "/assets/images/o3.jpeg", "size": "w-32 h-32" },
+      { "type": "image", "src": "/assets/images/o2.jpeg", "size": "w-32 h-32" },
+      { "type": "image", "src": "/assets/images/o4.jpeg", "size": "w-24 h-24" },
+      { "type": "box", "color": "bg-[#F8F2D8]", "size": "w-16 h-16" },
+      { "type": "image", "src": "/assets/images/o5.jpeg", "size": "w-24 h-24" },
+      { "type": "box", "color": "bg-[#F8F2D8]", "size": "w-16 h-16" }
+    ],
+    "description": {
+      "en": "The Environmental Affairs and Community Service sector plays a key role in enhancing the university’s involvement in serving the community, fostering interaction between the university and the local community, and strengthening the university's social responsibility.",
+      "ar": "يلعب قطاع شؤون البيئة وخدمة المجتمع دورًا رئيسيًا في تعزيز مشاركة الجامعة في خدمة المجتمع، وتعزيز التفاعل بين الجامعة والمجتمع المحلي، وتعزيز المسؤولية الاجتماعية للجامعة."
+    },
+    "initiativesImage":"/assets/images/overView.jpeg"
+    ,
+    "initiatives": [
+      {
+        "en": "Supervising the preparation of plans, policies, and programs to enhance the university's role in community service and environmental development.",
+        "ar": "الإشراف على إعداد الخطط والسياسات والبرامج لتعزيز دور الجامعة في خدمة المجتمع وتنمية البيئة."
+      },
+      {
+        "en": "Organizing awareness programs and campaigns focused on community welfare, such as pollution control and medical convoys.",
+        "ar": "تنظيم برامج وحملات توعية تركز على رفاهية المجتمع، مثل مكافحة التلوث والقوافل الطبية."
+      },
+      {
+        "en": "Coordinating partnerships with government and non-governmental organizations to implement initiatives that promote a sustainable environment.",
+        "ar": "تنسيق الشراكات مع الجهات الحكومية وغير الحكومية لتنفيذ مبادرات تعزز البيئة المستدامة."
+      },
+      {
+        "en": "Studying environmental problems and proposing scientific solutions to address them.",
+        "ar": "دراسة المشكلات البيئية واقتراح حلول علمية لمعالجتها."
+      },
+      {
+        "en": "Encouraging research and projects aimed at improving environmental sustainability and community awareness.",
+        "ar": "تشجيع الأبحاث والمشروعات التي تهدف إلى تحسين الاستدامة البيئية والتوعية المجتمعية."
+      },
+      {
+        "en": "Promoting initiatives that support environmental protection, energy conservation, and pollution reduction.",
+        "ar": "تعزيز المبادرات التي تدعم حماية البيئة، وترشيد استهلاك الطاقة، وتقليل التلوث."
+      },
+      {
+        "en": "Providing local community services with specialized programs and healthcare initiatives.",
+        "ar": "تقديم خدمات مجتمعية محلية من خلال برامج متخصصة ومبادرات رعاية صحية."
+      },
+      {
+        "en": "Organizing environmental awareness programs and volunteer efforts for cleaner and healthier surroundings.",
+        "ar": "تنظيم برامج توعية بيئية وجهود تطوعية لبيئة أنظف وأكثر صحة."
+      },
+      {
+        "en": "Evaluating the social and environmental impact of projects to enhance community efforts.",
+        "ar": "تقييم التأثير الاجتماعي والبيئي للمشروعات لتعزيز الجهود المجتمعية."
+      }
+    ]
+  }
+  
+  
 }
