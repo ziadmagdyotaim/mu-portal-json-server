@@ -1368,7 +1368,195 @@
         "ar": "تقييم التأثير الاجتماعي والبيئي للمشروعات لتعزيز الجهود المجتمعية."
       }
     ]
-  }
+  },
+  
+    "Sector": [
+      {
+        "id": 1,
+        "image": "https://s3-alpha-sig.figma.com/img/c230/7b5e/ea05a69a22dfe84b1ffbae626e3d9f08?Expires=1739145600&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=JhntI9Al2A-B~c60kEcn5tNFGIxf9HLzHBcLwB01mJGpT2LXI-unGjFnW6Lt8Hi0pBlI3CPtqjcMd7DMAa9Wffc0bsYZFgtO7SRaap4tpr7cfJvcdzMCGJQFIrBjP~lfv5IslJhWqiFQiikABGqbJ-zZsqqsiTbDyAZnr4-2-xkHiX63R3dHGwgJ9BZivUNY0dU31IfCPXPZePCXIKuVjon1FmDFFs4HlUy9cifEpGOPIXnL2nTIasM61hjt9kHJlBQUA76eZRBoAWtZZgSpXm1-FAbXzpM04aQqTPR6V5oaCZHWLY9DmDS208Yeved~NsnGbEVxFRwk2yUe2vF0rA__",
+        "title": {
+          "ar": "سياسات قطاع شؤون التعليم والطلاب",
+          "en": "Education and Student Affairs Sector Policies",
+          "fr": "Politiques du secteur de l'éducation et des affaires étudiantes"
+        },
+        "description": {
+          "ar": "القواعد واللوائح وإجراءات التعامل مع الطلاب",
+          "en": "Rules, regulations, and procedures for dealing with students",
+          "fr": "Règles, règlements et procédures pour traiter avec les étudiants"
+        }
+      },
+      {
+        "id": 2,
+        "image": "https://s3-alpha-sig.figma.com/img/c230/7b5e/ea05a69a22dfe84b1ffbae626e3d9f08?Expires=1739145600&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=JhntI9Al2A-B~c60kEcn5tNFGIxf9HLzHBcLwB01mJGpT2LXI-unGjFnW6Lt8Hi0pBlI3CPtqjcMd7DMAa9Wffc0bsYZFgtO7SRaap4tpr7cfJvcdzMCGJQFIrBjP~lfv5IslJhWqiFQiikABGqbJ-zZsqqsiTbDyAZnr4-2-xkHiX63R3dHGwgJ9BZivUNY0dU31IfCPXPZePCXIKuVjon1FmDFFs4HlUy9cifEpGOPIXnL2nTIasM61hjt9kHJlBQUA76eZRBoAWtZZgSpXm1-FAbXzpM04aQqTPR6V5oaCZHWLY9DmDS208Yeved~NsnGbEVxFRwk2yUe2vF0rA__",
+        "title": {
+          "ar": "سياسات قطاع شؤون التعليم والطلاب",
+          "en": "Education and Student Affairs Sector Policies",
+          "fr": "Politiques du secteur de l'éducation et des affaires étudiantes"
+        },
+        "description": {
+          "ar": "القواعد واللوائح وإجراءات التعامل مع الطلاب",
+          "en": "Rules, regulations, and procedures for dealing with students",
+          "fr": "Règles, règlements et procédures pour traiter avec les étudiants"
+        }
+      },
+      {
+        "id": 3,
+        "image": "https://s3-alpha-sig.figma.com/img/c230/7b5e/ea05a69a22dfe84b1ffbae626e3d9f08?Expires=1739145600&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=JhntI9Al2A-B~c60kEcn5tNFGIxf9HLzHBcLwB01mJGpT2LXI-unGjFnW6Lt8Hi0pBlI3CPtqjcMd7DMAa9Wffc0bsYZFgtO7SRaap4tpr7cfJvcdzMCGJQFIrBjP~lfv5IslJhWqiFQiikABGqbJ-zZsqqsiTbDyAZnr4-2-xkHiX63R3dHGwgJ9BZivUNY0dU31IfCPXPZePCXIKuVjon1FmDFFs4HlUy9cifEpGOPIXnL2nTIasM61hjt9kHJlBQUA76eZRBoAWtZZgSpXm1-FAbXzpM04aQqTPR6V5oaCZHWLY9DmDS208Yeved~NsnGbEVxFRwk2yUe2vF0rA__",
+        "title": {
+          "ar": "سياسات قطاع شؤون التعليم والطلاب",
+          "en": "Education and Student Affairs Sector Policies",
+          "fr": "Politiques du secteur de l'éducation et des affaires étudiantes"
+        },
+        "description": {
+          "ar": "القواعد واللوائح وإجراءات التعامل مع الطلاب",
+          "en": "Rules, regulations, and procedures for dealing with students",
+          "fr": "Règles, règlements et procédures pour traiter avec les étudiants"
+        }
+      },
+      {
+        "id": 4,
+        "image": "https://s3-alpha-sig.figma.com/img/c230/7b5e/ea05a69a22dfe84b1ffbae626e3d9f08?Expires=1739145600&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=JhntI9Al2A-B~c60kEcn5tNFGIxf9HLzHBcLwB01mJGpT2LXI-unGjFnW6Lt8Hi0pBlI3CPtqjcMd7DMAa9Wffc0bsYZFgtO7SRaap4tpr7cfJvcdzMCGJQFIrBjP~lfv5IslJhWqiFQiikABGqbJ-zZsqqsiTbDyAZnr4-2-xkHiX63R3dHGwgJ9BZivUNY0dU31IfCPXPZePCXIKuVjon1FmDFFs4HlUy9cifEpGOPIXnL2nTIasM61hjt9kHJlBQUA76eZRBoAWtZZgSpXm1-FAbXzpM04aQqTPR6V5oaCZHWLY9DmDS208Yeved~NsnGbEVxFRwk2yUe2vF0rA__",
+        "title": {
+          "ar": "سياسات قطاع شؤون التعليم والطلاب",
+          "en": "Education and Student Affairs Sector Policies",
+          "fr": "Politiques du secteur de l'éducation et des affaires étudiantes"
+        },
+        "description": {
+          "ar": "القواعد واللوائح وإجراءات التعامل مع الطلاب",
+          "en": "Rules, regulations, and procedures for dealing with students",
+          "fr": "Règles, règlements et procédures pour traiter avec les étudiants"
+        }
+      },
+      {
+        "id": 5,
+        "image": "https://s3-alpha-sig.figma.com/img/c230/7b5e/ea05a69a22dfe84b1ffbae626e3d9f08?Expires=1739145600&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=JhntI9Al2A-B~c60kEcn5tNFGIxf9HLzHBcLwB01mJGpT2LXI-unGjFnW6Lt8Hi0pBlI3CPtqjcMd7DMAa9Wffc0bsYZFgtO7SRaap4tpr7cfJvcdzMCGJQFIrBjP~lfv5IslJhWqiFQiikABGqbJ-zZsqqsiTbDyAZnr4-2-xkHiX63R3dHGwgJ9BZivUNY0dU31IfCPXPZePCXIKuVjon1FmDFFs4HlUy9cifEpGOPIXnL2nTIasM61hjt9kHJlBQUA76eZRBoAWtZZgSpXm1-FAbXzpM04aQqTPR6V5oaCZHWLY9DmDS208Yeved~NsnGbEVxFRwk2yUe2vF0rA__",
+        "title": {
+          "ar": "سياسات قطاع شؤون التعليم والطلاب",
+          "en": "Education and Student Affairs Sector Policies",
+          "fr": "Politiques du secteur de l'éducation et des affaires étudiantes"
+        },
+        "description": {
+          "ar": "القواعد واللوائح وإجراءات التعامل مع الطلاب",
+          "en": "Rules, regulations, and procedures for dealing with students",
+          "fr": "Règles, règlements et procédures pour traiter avec les étudiants"
+        }
+      },
+      {
+        "id": 6,
+        "image": "https://s3-alpha-sig.figma.com/img/c230/7b5e/ea05a69a22dfe84b1ffbae626e3d9f08?Expires=1739145600&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=JhntI9Al2A-B~c60kEcn5tNFGIxf9HLzHBcLwB01mJGpT2LXI-unGjFnW6Lt8Hi0pBlI3CPtqjcMd7DMAa9Wffc0bsYZFgtO7SRaap4tpr7cfJvcdzMCGJQFIrBjP~lfv5IslJhWqiFQiikABGqbJ-zZsqqsiTbDyAZnr4-2-xkHiX63R3dHGwgJ9BZivUNY0dU31IfCPXPZePCXIKuVjon1FmDFFs4HlUy9cifEpGOPIXnL2nTIasM61hjt9kHJlBQUA76eZRBoAWtZZgSpXm1-FAbXzpM04aQqTPR6V5oaCZHWLY9DmDS208Yeved~NsnGbEVxFRwk2yUe2vF0rA__",
+        "title": {
+          "ar": "سياسات قطاع شؤون التعليم والطلاب",
+          "en": "Education and Student Affairs Sector Policies",
+          "fr": "Politiques du secteur de l'éducation et des affaires étudiantes"
+        },
+        "description": {
+          "ar": "القواعد واللوائح وإجراءات التعامل مع الطلاب",
+          "en": "Rules, regulations, and procedures for dealing with students",
+          "fr": "Règles, règlements et procédures pour traiter avec les étudiants"
+        }
+      },
+      {
+        "id": 7,
+        "image": "https://s3-alpha-sig.figma.com/img/c230/7b5e/ea05a69a22dfe84b1ffbae626e3d9f08?Expires=1739145600&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=JhntI9Al2A-B~c60kEcn5tNFGIxf9HLzHBcLwB01mJGpT2LXI-unGjFnW6Lt8Hi0pBlI3CPtqjcMd7DMAa9Wffc0bsYZFgtO7SRaap4tpr7cfJvcdzMCGJQFIrBjP~lfv5IslJhWqiFQiikABGqbJ-zZsqqsiTbDyAZnr4-2-xkHiX63R3dHGwgJ9BZivUNY0dU31IfCPXPZePCXIKuVjon1FmDFFs4HlUy9cifEpGOPIXnL2nTIasM61hjt9kHJlBQUA76eZRBoAWtZZgSpXm1-FAbXzpM04aQqTPR6V5oaCZHWLY9DmDS208Yeved~NsnGbEVxFRwk2yUe2vF0rA__",
+        "title": {
+          "ar": "سياسات قطاع شؤون التعليم والطلاب",
+          "en": "Education and Student Affairs Sector Policies",
+          "fr": "Politiques du secteur de l'éducation et des affaires étudiantes"
+        },
+        "description": {
+          "ar": "القواعد واللوائح وإجراءات التعامل مع الطلاب",
+          "en": "Rules, regulations, and procedures for dealing with students",
+          "fr": "Règles, règlements et procédures pour traiter avec les étudiants"
+        }
+      },
+      {
+        "id": 8,
+        "image": "https://s3-alpha-sig.figma.com/img/c230/7b5e/ea05a69a22dfe84b1ffbae626e3d9f08?Expires=1739145600&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=JhntI9Al2A-B~c60kEcn5tNFGIxf9HLzHBcLwB01mJGpT2LXI-unGjFnW6Lt8Hi0pBlI3CPtqjcMd7DMAa9Wffc0bsYZFgtO7SRaap4tpr7cfJvcdzMCGJQFIrBjP~lfv5IslJhWqiFQiikABGqbJ-zZsqqsiTbDyAZnr4-2-xkHiX63R3dHGwgJ9BZivUNY0dU31IfCPXPZePCXIKuVjon1FmDFFs4HlUy9cifEpGOPIXnL2nTIasM61hjt9kHJlBQUA76eZRBoAWtZZgSpXm1-FAbXzpM04aQqTPR6V5oaCZHWLY9DmDS208Yeved~NsnGbEVxFRwk2yUe2vF0rA__",
+        "title": {
+          "ar": "سياسات قطاع شؤون التعليم والطلاب",
+          "en": "Education and Student Affairs Sector Policies",
+          "fr": "Politiques du secteur de l'éducation et des affaires étudiantes"
+        },
+        "description": {
+          "ar": "القواعد واللوائح وإجراءات التعامل مع الطلاب",
+          "en": "Rules, regulations, and procedures for dealing with students",
+          "fr": "Règles, règlements et procédures pour traiter avec les étudiants"
+        }
+      }
+    ],
+    "SectorTitles": {
+        "sector": {
+          "ar": "القطاع",
+          "en": "Sector",
+          "fr": "Secteur"
+        },
+        "more_details": {
+          "ar": "المزيد من التفاصيل",
+          "en": "More details",
+          "fr": "Plus de détails"
+        },
+        "image": "https://s3-alpha-sig.figma.com/img/344b/26b8/ba629fc0792d8d5be7b926da7289e207?Expires=1739145600&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=V6-RiyIbK6PaBrHrqS1WscluGS~X4UTluxEomPFEyRZjcw0~L4j1Q~t6Rbl9IJddxxQ1ca-k-eP9gJM1kuezWiQth7yNFxnhFk-8EI0jkhbQW7HWpxkhc7wD5f77y9~P4AR0OrvlTGzylTza064f6lLib-p5os7bbWQZlIgN4a~CkGhXmPgm2jaktK3xiMMZDk~fhWQHE2Vo-KPvjbUOgBYZtynEFwxMFEsHs~0GQ8bXWSTobF58a5A9Cac~vxpeV926mcvCGK6Unw2ugEh4jaTA53fl2QUza~J4dUbS5crNfgtrgC3s-ySPWjR3w7uGpKX1Cxu1qQWvvvsg1Nh8aQ__"
+      },
+      "goals": [
+      {
+        "id": 1,
+        "description": {
+          "ar": "أهداف الرعاية والأنشطة الطلابية: تنمية القيم الروحية والأخلاقية والوعي الوطني والقومي بين الطلاب وتدريبهم على القيادة وإتاحة الفرصة لهم للتعبير عن آرائهم.",
+          "en": "Care goals and student activities: Developing spiritual, ethical values, national and civic awareness among students, training them for leadership, and providing opportunities to express their opinions.",
+          "fr": "Objectifs de soins et activités des étudiants: Développer les valeurs spirituelles, éthiques, la conscience nationale et civique parmi les étudiants, les former à la direction et leur donner la possibilité d'exprimer leurs opinions."
+        }
+      },
+      {
+        "id": 2,
+        "description": {
+          "ar": "تنمية القيادات الطبيعية وتفعيل دورها في القيام بمهامها القيادية والعمل التطوعي.",
+          "en": "Developing natural leadership and activating its role in carrying out its leadership tasks and volunteer work.",
+          "fr": "Développer le leadership naturel et activer son rôle dans l'accomplissement de ses tâches de direction et le travail bénévole."
+        }
+      },
+      {
+        "id": 3,
+        "description": {
+          "ar": "اكتشاف مواهب الطلاب وقدراتهم ومهاراتهم الإبداعية وصقلها وتشجيعها.",
+          "en": "Discovering students' talents, abilities, and creative skills, honing them, and encouraging them.",
+          "fr": "Découvrir les talents, compétences et capacités créatives des étudiants, les affiner et les encourager."
+        }
+      },
+      {
+        "id": 4,
+        "description": {
+          "ar": "نشر وتشجيع تكوين الأسر والجمعيات التعاونية الطلابية ودعم نشاطها.",
+          "en": "Spreading and encouraging the formation of student families and cooperative associations and supporting their activities.",
+          "fr": "Promouvoir et encourager la formation de familles étudiantes et d'associations coopératives étudiantes et soutenir leurs activités."
+        }
+      },
+      {
+        "id": 5,
+        "description": {
+          "ar": "نشر وتنظيم وتطوير الأنشطة الرياضية والاجتماعية والكشفية والفنية والثقافية والكشفية والعلمية والارتفاع بمستواها وتشجيع المتفوقين فيها.",
+          "en": "Spreading, organizing, and developing sports, social, scouting, artistic, cultural, and scientific activities, elevating their standards, and encouraging the outstanding participants.",
+          "fr": "Promouvoir, organiser et développer des activités sportives, sociales, scoutes, artistiques, culturelles et scientifiques, élever leur niveau et encourager les excellents participants."
+        }
+      },
+      {
+        "id": 6,
+        "description": {
+          "ar": "تنمية مهارات الاتصال والتواصل مع المجتمع الطلابي والهيئات والمؤسسات المجتمعية.",
+          "en": "Developing communication skills and interacting with the student community and societal organizations.",
+          "fr": "Développer des compétences en communication et interagir avec la communauté étudiante et les organisations sociales."
+        }
+      }
+    ],
+    "titleandimage": {
+      "title": {
+        "ar": "أهداف الرعاية والأنشطة الطلابية",
+        "en": "Care goals and student activities",
+        "fr": "Objectifs de soins et activités des étudiants"
+      },
+      "image": "https://s3-alpha-sig.figma.com/img/b116/c12b/16aed314b87a2776bc6b70af16e64b54?Expires=1739145600&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=QjJ53Jn~NiBL6ojd2R~9RcYT5X2luo-CzL43P62YX3vFnkMG9-tGFNxp5agU~dAnHqv1GYo2ITV7xpH5VC3aa1X1wX6P5~EI3ey1YjL56qvh9G0zWobBEuzTw5-ZK2CVvcZDeOXPPB2KMQdETIHiA~ML8pEoqPB909wLNPUyYPot5DxDue36keeResdrSBo191svBJrMY2DEtlRxkVvmzesADcDMq9sZR9PgOl8Wr4grt5Zv9lG~cYPGPuDQ1vPQusujbCXZ~-KA8LCDE7U8IG6XRjURY4F~IHyJAb8U-U2F2CNbfY~4Ls7V7PilnSk49U6~5-U-6Q4x3lf-JORkfA__"
+    }
+  
+  
   
   
 }
