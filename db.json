@@ -1554,7 +1554,57 @@
         "fr": "Objectifs de soins et activités des étudiants"
       },
       "image": "https://s3-alpha-sig.figma.com/img/b116/c12b/16aed314b87a2776bc6b70af16e64b54?Expires=1739145600&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=QjJ53Jn~NiBL6ojd2R~9RcYT5X2luo-CzL43P62YX3vFnkMG9-tGFNxp5agU~dAnHqv1GYo2ITV7xpH5VC3aa1X1wX6P5~EI3ey1YjL56qvh9G0zWobBEuzTw5-ZK2CVvcZDeOXPPB2KMQdETIHiA~ML8pEoqPB909wLNPUyYPot5DxDue36keeResdrSBo191svBJrMY2DEtlRxkVvmzesADcDMq9sZR9PgOl8Wr4grt5Zv9lG~cYPGPuDQ1vPQusujbCXZ~-KA8LCDE7U8IG6XRjURY4F~IHyJAb8U-U2F2CNbfY~4Ls7V7PilnSk49U6~5-U-6Q4x3lf-JORkfA__"
-    }
+    },
+    
+      "PostgraduateStatistics": [
+        {
+          "id": 1,
+          "title": {
+            "ar": "طلاب الدراسات العليا",
+            "en": "Postgraduate Students",
+            "fr": "Étudiants de troisième cycle"
+          },
+          "value": 1200
+        },
+        {
+          "id": 2,
+          "title": {
+            "ar": "عدد الوافدين",
+            "en": "Number of International Students",
+            "fr": "Nombre d'étudiants internationaux"
+          },
+          "value": 350
+        },
+        {
+          "id": 3,
+          "title": {
+            "ar": "الرسائل العلمية المسجلة",
+            "en": "Number of Registered Theses",
+            "fr": "Nombre de thèses enregistrées"
+          },
+          "value": 500
+        },
+        {
+          "id": 4,
+          "title": {
+            "ar": "الاتفاقيات",
+            "en": "Agreements",
+            "fr": "Accords"
+          },
+          "value": 50
+        }
+      ],
+      "PostgraduateStatisticsLinkandTitles": {
+        "link": "https://s3-alpha-sig.figma.com/img/4ac2/30a0/b2339ba637b3310226c819f4c3b3236d?Expires=1739750400&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=k32EGJceaHAomyF7QWoJngxoUwdQBCrS-IcJeT31RF9e26g1qgdmkcGqJGl554zujj8Jxen5cPCmqGrlTBx5qyG9S7tkA1P6OBEVkEfwk1x6eSgSYTDtEDAB4PRjdq1ajzMJxlYhprznDF75K99lVow7L3yt3ZyiD3zvU4s1g5kKu3Jm2LWMQ12Um61QpAZ1~kc8SAOMGedZ8FBBuQ42A6d8OK73XWvg22tGJQ5wmCKUsIDMZddn7aW2zCrE9fx9X1CG~aJkqEuExOM08U9X4OKt3RjEFeJDBCb9AAieG70NfmaRlDghxBv~jROYCcbZxlakS-7q0tkNiX7Qv-AvyA__",
+        "title": {
+          "ar": "إحصائيات الدراسات العليا",
+          "en": "Postgraduate Statistics",
+          "fr": "Statistiques des études supérieures"
+        }
+      }
+    
+    
+    
   
   
   
