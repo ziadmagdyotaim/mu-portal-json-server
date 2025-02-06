@@ -23,7 +23,7 @@ server.use(jsonServer.rewriter({
 const router = jsonServer.router('db.json')
 server.use(router)
 
-server.listen(3000, '0.0.0.0', () => {
+server.listen(3000, () => {
     console.log('JSON Server is running on port 3000 and accessible from all origins')
 })
 
