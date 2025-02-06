@@ -7,7 +7,7 @@ const server = jsonServer.create()
 server.use(cors({
     origin: '*',  // Allows all origins (not recommended for production)
     methods: 'GET,HEAD,PUT,PATCH,POST,DELETE',
-    credentials: true
+    credentials: false
 }));
 
 const middlewares = jsonServer.defaults()
