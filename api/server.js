@@ -1,35 +1,27 @@
-const jsonServer = require("json-server");
-const server = jsonServer.create();
+const jsonServer = require('json-server')
+const cors = require('cors')  // Import CORS package
 
-server.use(middlewares);
+const server = jsonServer.create()
 
-// Enable CORS for all origins
-server.use((req, res, next) => {
-  res.header("Access-Control-Allow-Origin", "*"); // Allow any origin
-  res.header(
-    "Access-Control-Allow-Methods",
-    "GET, POST, PATCH, PUT, DELETE, OPTIONS"
-  );
-  res.header("Access-Control-Allow-Headers", "Content-Type, Authorization");
-  next();
-});
-// Comment out to allow write operations
-const router = jsonServer.router("db.json");
+// Allow all origins
+server.use(cors())  
 
-const middlewares = jsonServer.defaults();
+const middlewares = jsonServer.defaults()
+server.use(middlewares)
 
-server.use(middlewares);
-// Add this before server.use(router)
-server.use(
-  jsonServer.rewriter({
-    "/api/*": "/$1",
-    "/blog/:resource/:id/show": "/:resource/:id",
-  })
-);
-server.use(router);
-server.listen(3000, () => {
-  console.log("JSON Server is running");
-});
+// URL Rewriting Rules
+server.use(jsonServer.rewriter({
+    '/api/*': '/$1',
+    '/blog/:resource/:id/show': '/:resource/:id'
+}))
+
+// Database and Routing
+const router = jsonServer.router('db.json')
+server.use(router)
+
+server.listen(3000, '0.0.0.0', () => {
+    console.log('JSON Server is running on port 3000 and accessible from all origins')
+})
 
 // Export the Server API
-module.exports = server;
+module.exports = server
