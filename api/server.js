@@ -4,7 +4,11 @@ const cors = require('cors')  // Import CORS package
 const server = jsonServer.create()
 
 // Allow all origins
-server.use(cors())  
+server.use(cors({
+    origin: '*',  // Allows all origins (not recommended for production)
+    methods: 'GET,HEAD,PUT,PATCH,POST,DELETE',
+    credentials: true
+}));
 
 const middlewares = jsonServer.defaults()
 server.use(middlewares)
