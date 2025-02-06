@@ -1,31 +1,25 @@
+// See https://github.com/typicode/json-server#module
 const jsonServer = require('json-server')
-const cors = require('cors')  // Import CORS package
-
 const server = jsonServer.create()
-
-// Allow all origins
-server.use(cors({
-    origin: 'http://localhost.com',  // Allows all origins (not recommended for production)
-    methods: 'GET,HEAD,PUT,PATCH,POST,DELETE',
-    credentials: false
-}));
-
+// Uncomment to allow write operations
+// const fs = require('fs')
+// const path = require('path')
+// const filePath = path.join('db.json')
+// const data = fs.readFileSync(filePath, "utf-8");
+// const db = JSON.parse(data);
+// const router = jsonServer.router(db)
+// Comment out to allow write operations
+const router = jsonServer.router('db.json')
 const middlewares = jsonServer.defaults()
 server.use(middlewares)
-
-// URL Rewriting Rules
+// Add this before server.use(router)
 server.use(jsonServer.rewriter({
     '/api/*': '/$1',
     '/blog/:resource/:id/show': '/:resource/:id'
 }))
-
-// Database and Routing
-const router = jsonServer.router('db.json')
 server.use(router)
-
 server.listen(3000, () => {
-    console.log('JSON Server is running on port 3000 and accessible from all origins')
+    console.log('JSON Server is running')
 })
-
 // Export the Server API
 module.exports = server
