@@ -5,7 +5,7 @@ const server = jsonServer.create()
 
 // Allow all origins
 server.use(cors({
-    origin: '*',  // Allows all origins (not recommended for production)
+    origin: 'http://localhost.com',  // Allows all origins (not recommended for production)
     methods: 'GET,HEAD,PUT,PATCH,POST,DELETE',
     credentials: false
 }));
