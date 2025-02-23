@@ -1601,7 +1601,151 @@
           "en": "Postgraduate Statistics",
           "fr": "Statistiques des études supérieures"
         }
+      },
+      "universityVision": {
+        "image": "https://s3-alpha-sig.figma.com/img/f850/3aaa/321454d61456f8754832c7814e4e7c7a?Expires=1740960000&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=l9lUlHT6owE1UfxR2CYa-URyEGZTNc-JE9gyhL36rIS1JT144f0Ye0xSnI7AkBlWdXdH6clgJd~P~ciubs35DlVvdZHiHaAv8IXhEnLJTJbVIQDPahzFFIJsb3cJ3QV9Xhb3dP3lz30-078d4z3MXs4KxbYeqRiXaVcB3rs3i2kUz2Ye1Ur9SYlr9lEaCZxvBFaScipk9MLkCD~nINpbIkVFtpD2fh7OcjN59RUboIpU6b2QyvOit407BbxMDwN6NCjrJTTf~cd1D1ydKVGZQxUL6EM2GDsV71~TtRdZ1sDHEghnFdA79~vEB5AN7U6zHpA5Q~4xbjCae6sp-Re~tg__",
+        "title": {
+          "ar": "رؤية الجامعة",
+          "en": "University Vision",
+          "fr": "Vision de l'Université"
+        },
+        "description": {
+          "ar": "تتطلع جامعة المنوفية لأن تكون من الجامعات الرائدة على المستويين المحلي والدولي في تقديم الخدمات التعليمية والبحثية والمجتمعية الموجهة بأهداف التنمية المستدامة.",
+          "en": "Menoufia University aspires to be one of the leading universities at the local and international levels in providing educational, research, and community services aimed at sustainable development.",
+          "fr": "L'Université de Menoufia aspire à être l'une des universités leaders aux niveaux local et international dans la fourniture de services éducatifs, de recherche et communautaires visant le développement durable."
+        }
+      },
+      "UniversityMessage": {
+        "image": "https://s3-alpha-sig.figma.com/img/8db4/7049/03bf862b04562289c7c6055bc7e8bb1a?Expires=1740960000&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=W60VYXPr4GXL~MCPRYou~IxxpyaEP5yrIfmVE73q85yK8PVjEii~qww1vBk~XGTIuOZs19SCKZnanUFqfZt-FGqDOu~gUJ1CFj~ap1QAcv7cXOqtOT4Y9YrzjUrv9OOBMlfyKSOG~eL3t3Y~WehjQTp6y444Fby0Tdai70brbjtbE1DFSFReLFEoxj6nXLLrZVwXlMjQCC4eVvdEM3BD1RvuK5f5UEl4IJD0w7P7CEM2pPAknRC1o8PNpdK8jJzGXhyMjc~xZJVilF6y0CabTbfP~gCeEjeortRuqK~mgi3ZQtJB0N8F3fD4aD9c~IP19uTHryzsuaRuwgw0w6ojTA__",
+        "title": {
+          "ar": " رسالة الجامعه",
+          "en": "University message ",
+          "fr": " Message de l'Université"
+        },
+        "description": {
+          "ar": "جامعة المنوفية إحدى مؤسسات التعليم العالى التى تسهم فى إعداد الكوادر البشرية اللازمة لسوق العمل وتأهيلها من خلال تقديم خدمات تعليمية وبحثية ومجتمعية متميزة وفق المعايير المرجعية لتحقيق أهداف التنمية المستدامة وكسب ثقة المجتمع .",
+          "en": "Menoufia University is one of the higher education institutions that contributes to preparing and qualifying the human cadres necessary for the labor market by providing distinguished educational, research and community services according to the reference standards to achieve the goals of sustainable development and gain the trust of society.",
+          "fr": "L'Université Menoufia est l'un des établissements d'enseignement supérieur qui contribue à préparer et à qualifier les cadres humains nécessaires au marché du travail en fournissant des services éducatifs, de recherche et communautaires distingués selon les normes de référence pour atteindre les objectifs de développement durable et gagner la confiance de la société."
+        }
+      },
+  "UniversityGoals": {
+  "image": "https://s3-alpha-sig.figma.com/img/492c/28f8/25309f06b7b91e0285be07ae8a0e614d?Expires=1740960000&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=U4HBieu3SC3oo89FqzKeIf3~EKyjb7joykn~O9bBXPBjaxDtHz52BVb2YmXBiBb0kp11JDovKgG-v4KWVadGCk-kLn7J~aTNIklUIyQuVBY085aoGCngQ3ERJ7Z01JGUgIW5sMPXfcxNFxSOjmcQ~OBiiUifeuFNRNdSFngyp5AewF8b03cxbch2x2mTprHkTzo9r1oOkP6-ycU-6dfkhp6tUo0nYrcBnl38cVtJoZVN9Gj2DUXkxtMP~AAoW5PAIEI2Nwt-VVETBLyM6sdBKGqBVR4jUZ-23PBr6lToHcw-b5hrqQ0SPpHgVzm2yr238xJpCMy02SF45FLblLrj3g__",
+  "title": {
+    "ar": "أهداف الجامعة",
+    "en": "University Goals",
+    "fr": "Objectifs de l'Université"
+  },
+  "description": {
+    "ar": [
+      {
+        "id": 1,
+        "text": "تمثل الغاية العامة النتائج النهائية المطلوب تحقيقها فى الأجل الطويل، وتكون غالباً مفتوحة النهاية وغير محددة بفترة زمنية. كما لا يتم التعبير عنها فى شكل كمى، ولا تتضمن إطاراً زمنياً محدداً لتحقيقها. وتمثل الغايات العامة للجامعة مؤشرات النجاح لتحقيق رسالتها. وفى ضوء رؤية ورسالة الجامعة فقد أمكن تحديد الغايات العامة التالية:"
+      },
+      {
+        "id": 2,
+        "text": "1- توسع مؤسسى هادف لفتح آفاق علمية جديدة فى ظل إقتصاد المعرفة والتنافسية."
+      },
+      {
+        "id": 3,
+        "text": "2- مكانة رفيعة للجامعة فى منظومة التعليم العالى وكسب ثقة المجتمع."
+      },
+      {
+        "id": 4,
+        "text": "3- خريج مواكب لروح العصر ومتطلبات سوق العمل."
+      },
+      {
+        "id": 5,
+        "text": "4- عضو هيئة تدريس ذو جدارات علمية ومهنية متميزة إقليمياً وعالمياً."
+      },
+      {
+        "id": 6,
+        "text": "5- بحث علمى متقدم يخدم خطط التنمية الاقتصادية والاجتماعية."
+      },
+      {
+        "id": 7,
+        "text": "6- تنمية وحسن استغلال الموارد المالية والمادية للجامعة."
+      },
+      {
+        "id": 8,
+        "text": "7- هيكل تنظيمى ملائم وجهاز إدارى كفء."
       }
+    ],
+    "en": [
+      {
+        "id": 1,
+        "text": "The general goal represents the final outcomes to be achieved in the long term. It is often open-ended and not limited by a specific time frame. It is not expressed in quantitative form and does not include a specific timeline for achievement. The general goals of the university represent success indicators for achieving its mission. In light of the university's vision and mission, the following general goals have been identified:"
+      },
+      {
+        "id": 2,
+        "text": "1- Purposeful institutional expansion to open new scientific horizons in the context of the knowledge economy and competitiveness."
+      },
+      {
+        "id": 3,
+        "text": "2- A prestigious position for the university in the higher education system and gaining the trust of society."
+      },
+      {
+        "id": 4,
+        "text": "3- Graduates aligned with the spirit of the times and labor market requirements."
+      },
+      {
+        "id": 5,
+        "text": "4- Faculty members with distinguished scientific and professional competencies regionally and globally."
+      },
+      {
+        "id": 6,
+        "text": "5- Advanced scientific research serving economic and social development plans."
+      },
+      {
+        "id": 7,
+        "text": "6- Development and optimal utilization of the university's financial and material resources."
+      },
+      {
+        "id": 8,
+        "text": "7- An appropriate organizational structure and an efficient administrative system."
+      }
+    ],
+    "fr": [
+      {
+        "id": 1,
+        "text": "L'objectif général représente les résultats finaux à atteindre à long terme. Il est souvent ouvert et non limité par un cadre temporel spécifique. Il n'est pas exprimé sous une forme quantitative et n'inclut pas de calendrier spécifique pour sa réalisation. Les objectifs généraux de l'université représentent des indicateurs de succès pour atteindre sa mission. À la lumière de la vision et de la mission de l'université, les objectifs généraux suivants ont été identifiés :"
+      },
+      {
+        "id": 2,
+        "text": "1- Expansion institutionnelle ciblée pour ouvrir de nouveaux horizons scientifiques dans le contexte de l'économie de la connaissance et de la compétitivité."
+      },
+      {
+        "id": 3,
+        "text": "2- Une position prestigieuse pour l'université dans le système d'enseignement supérieur et la confiance de la société."
+      },
+      {
+        "id": 4,
+        "text": "3- Diplômés alignés avec l'esprit du temps et les exigences du marché du travail."
+      },
+      {
+        "id": 5,
+        "text": "4- Membres du corps professoral avec des compétences scientifiques et professionnelles distinguées au niveau régional et mondial."
+      },
+      {
+        "id": 6,
+        "text": "5- Recherche scientifique avancée au service des plans de développement économique et social."
+      },
+      {
+        "id": 7,
+        "text": "6- Développement et utilisation optimale des ressources financières et matérielles de l'université."
+      },
+      {
+        "id": 8,
+        "text": "7- Une structure organisationnelle appropriée et un système administratif efficace."
+      }
+    ]
+  }
+}
+
+
+      
+      
+    
+
     
     
     
