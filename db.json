@@ -1631,8 +1631,79 @@
         "fr": "Objectifs de soins et activités des étudiants"
       },
       "image": "https://s3-alpha-sig.figma.com/img/b116/c12b/16aed314b87a2776bc6b70af16e64b54?Expires=1739145600&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=QjJ53Jn~NiBL6ojd2R~9RcYT5X2luo-CzL43P62YX3vFnkMG9-tGFNxp5agU~dAnHqv1GYo2ITV7xpH5VC3aa1X1wX6P5~EI3ey1YjL56qvh9G0zWobBEuzTw5-ZK2CVvcZDeOXPPB2KMQdETIHiA~ML8pEoqPB909wLNPUyYPot5DxDue36keeResdrSBo191svBJrMY2DEtlRxkVvmzesADcDMq9sZR9PgOl8Wr4grt5Zv9lG~cYPGPuDQ1vPQusujbCXZ~-KA8LCDE7U8IG6XRjURY4F~IHyJAb8U-U2F2CNbfY~4Ls7V7PilnSk49U6~5-U-6Q4x3lf-JORkfA__"
+    },
+
+  "facultySection":{
+    "service":{
+      "title":
+      {
+        "en":"E-Services at the Faculty of Electronic Engineering"
+        , "ar":"الخدمات الإلكترونية بكلية الهندسة الإلكترونية"
+      }
+      ,"description":{
+        "en":"You can access all electronic services through the Menoufia University website, where you can select the portal you wish to enter.",
+        "ar":"يمكنك الحصول على جميع الخدمات الالكترونية من خلال موقع جامعة المنوفية حيث يمكنك اختيار البوابة المراد الدخول اليها"
+      },
+      "services":[
+        {
+          "en":"Student Service",
+          "ar":"خدمة الطلاب"
+        },
+        {
+          "ar":"خدمة اعضاء هيئة التدريس",
+          "en":" Faculty Members Service"
+        },
+        {
+          "ar":"خدمة الدراسات العيا والخريجين",
+          "en":"Graduate and Postgraduate Studies Service"
+        }
+      ]
     }
-  
+    ,"faculty":{
+      "name":{
+        "en":"For the Faculty of Engineering",
+        "ar":"لكلية الهندسة"
+      },
+      "description":[
+        {
+          "img":"../../../../../public/assets/images/c822ab7128d3b1e03d2460a3a75a846c.jpeg"
+          , "words":{
+            "ar":"مدة الدراسة في الدبلومة المهنية أو البرنامج النوعي لا تقل عن عام دراسي واحد ولا تزيد عن عامين دراسيين.",
+              "en":"The duration of study for the professional diploma or specialized program is not less than one academic year and does not exceed two academic years."
+          }
+        }
+        , {
+          "img":"../../../../../public/assets/images/c822ab7128d3b1e03d2460a3a75a846c.jpeg"
+          , "words":{
+            "ar":"مدة الدراسة في الدبلومة المهنية أو البرنامج النوعي لا تقل عن عام دراسي واحد ولا تزيد عن عامين دراسيين.",
+              "en":"The duration of study for the professional diploma or specialized program is not less than one academic year and does not exceed two academic years."
+          }
+        }
+       , {
+          "img":"../../../../../public/assets/images/c822ab7128d3b1e03d2460a3a75a846c.jpeg"
+          , "words":{
+            "ar":"مدة الدراسة في الدبلومة المهنية أو البرنامج النوعي لا تقل عن عام دراسي واحد ولا تزيد عن عامين دراسيين.",
+              "en":"The duration of study for the professional diploma or specialized program is not less than one academic year and does not exceed two academic years."
+          }
+        }
+      ]
+    },
+    "leaderFaculty":{
+      "position":{
+        "en":"Dean of the Faculty",
+        "ar":" عميــــــــــد الكليـــــــــــــة"
+      },
+      "description":{
+        "ar":"  المؤهلات الدراسية:   بكالوريوس الهندسة الإلكترونية (قسم هندسة وعلوم الحاسبات) من كلية الهندسة الإلكترونية بمنوف .. جامعة المنوفية ..  دور مايو 1994م بتقدير (تراقمى) عام جيد جدا مع مرتبة الشرف.",
+        "en":"Academic Qualifications: Bachelor of Electronic Engineering (Department of Computer Engineering and Science) from the Faculty of Electronic Engineering, Menouf, Menoufia University, May 1994, with a cumulative grade of Very Good with Honors."
+      },
+      "name":{
+        "ar":"أ.د/ ايمن السيد احمد عميره",
+        "en":"Prof. Dr. Ayman El-Sayed Ahmed Omeira"
+      },
+      "img":"../../../../../public/assets/images/40bb09e641278fed84dc5780f7cf024f.jpeg"
+    }
+  }
   
   
   
