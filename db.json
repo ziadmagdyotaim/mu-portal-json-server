@@ -7,9 +7,18 @@
       "subdomain": "mu",
       "layout_level": 1,
       "pages": [
-        { "path": "/", "component": "L1HomePage" },
-        { "path": "/about", "component": "L1AboutPage" },
-        { "path": "/colleges", "component": "UniversityColleges" }
+        {
+          "path": "/",
+          "component": "L1HomePage"
+        },
+        {
+          "path": "/about",
+          "component": "L1AboutPage"
+        },
+        {
+          "path": "/colleges",
+          "component": "UniversityColleges"
+        }
       ],
       "theme": "green",
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRjYfeuZfDZfshe8HrHQrmjXtOl1vqAgBLhA&s"
@@ -21,8 +30,16 @@
       "is_owner": true,
       "layout_level": 2,
       "pages": [
-        { "path": "/", "component": "L2HomePage", "is_owner": true },
-        { "path": "/about", "component": "L2AboutPage", "is_owner": false },
+        {
+          "path": "/",
+          "component": "L2HomePage",
+          "is_owner": true
+        },
+        {
+          "path": "/about",
+          "component": "L2AboutPage",
+          "is_owner": false
+        },
         {
           "path": "/departments",
           "component": "CollegeDepartments",
@@ -40,7 +57,11 @@
               "is_owner": true,
               "layout_level": 4,
               "pages": [
-                { "path": "/", "component": "L2HomePage", "is_owner": false },
+                {
+                  "path": "/",
+                  "component": "L2HomePage",
+                  "is_owner": false
+                },
                 {
                   "path": "/about",
                   "component": "L2AboutPage",
@@ -71,10 +92,22 @@
       "subdomain": "med",
       "layout_level": 2,
       "pages": [
-        { "path": "/", "component": "L2HomePage" },
-        { "path": "/about", "component": "L2AboutPage" },
-        { "path": "/departments", "component": "CollegeDepartments" },
-        { "path": "/students", "component": "CollegeStudents" }
+        {
+          "path": "/",
+          "component": "L2HomePage"
+        },
+        {
+          "path": "/about",
+          "component": "L2AboutPage"
+        },
+        {
+          "path": "/departments",
+          "component": "CollegeDepartments"
+        },
+        {
+          "path": "/students",
+          "component": "CollegeStudents"
+        }
       ],
       "theme": "#28A745",
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlp7rKJBOQUDgF5T4xFudysP1pfdeUkL_vwQ&s"
@@ -86,11 +119,26 @@
       "subdomain": "fee.cs",
       "layout_level": 3,
       "pages": [
-        { "path": "/", "component": "L3HomePage" },
-        { "path": "/about", "component": "L3AboutPage" },
-        { "path": "/staff", "component": "DepartmentStaff" },
-        { "path": "/staff/:id", "component": "DepartmentMember" },
-        { "path": "/students", "component": "DepartmentStudents" }
+        {
+          "path": "/",
+          "component": "L3HomePage"
+        },
+        {
+          "path": "/about",
+          "component": "L3AboutPage"
+        },
+        {
+          "path": "/staff",
+          "component": "DepartmentStaff"
+        },
+        {
+          "path": "/staff/:id",
+          "component": "DepartmentMember"
+        },
+        {
+          "path": "/students",
+          "component": "DepartmentStudents"
+        }
       ],
       "theme": "blue",
       "logo": "https://r2.erweima.ai/imgcompressed/img/compressed_d34e66a10c7f09aae324e095d9e8ed79.webp"
@@ -955,8 +1003,8 @@
       "contact": {
         "email": "portal@gmail.com",
         "ph": "1234567890"
-      } ,
-      "social" : [
+      },
+      "social": [
         {
           "id": 1,
           "Icon": "Facebook",
@@ -978,10 +1026,8 @@
           "url": "https://wa.me/1234567890"
         }
       ]
-    } 
-   
-      ] 
-     ,
+    }
+  ],
   "titles": [
     {
       "id": 1,
@@ -1151,7 +1197,6 @@
     {
       "newId": 2,
       "englishTitle": "President of Menoufia University holds a meeting of the Graduate Studies Council online",
-
       "englishContent": "Author: Media Department - General Administration of Public Contracting and Media 2024. Author: Media Department - General Administration of Public Contracting and Media 2024. Author: Media Department - General Administration of Public Contracting and Media 2024. Author: Media Department - General Administration of Public Contracting and Media 2024. Author: Media Department - General Administration of Public Contracting and Media 2024. Author: Media Department - General Administration of Public Contracting and Media 2024. Author: Media Department - General Administration of Public Contracting and Media 2024. Author: Media Department - General Administration of Public Contracting and Media 2024.",
       "images": [
         {
@@ -1172,7 +1217,6 @@
     {
       "newId": 3,
       "englishTitle": "President of Menoufia University holds a meeting of the Graduate Studies Council online",
-
       "englishContent": "Author: Media Department - General Administration of Public Contracting and Media 2024. Author: Media Department - General Administration of Public Contracting and Media 2024. Author: Media Department - General Administration of Public Contracting and Media 2024. Author: Media Department - General Administration of Public Contracting and Media 2024. Author: Media Department - General Administration of Public Contracting and Media 2024. Author: Media Department - General Administration of Public Contracting and Media 2024. Author: Media Department - General Administration of Public Contracting and Media 2024. Author: Media Department - General Administration of Public Contracting and Media 2024. Author: Media Department - General Administration of Public Contracting and Media 2024. Author: Media Department - General Administration of Public Contracting and Media 2024. Author: Media Department - General Administration of Public Contracting and Media 2024. Author: Media Department - General Administration of Public Contracting and Media 2024. Author: Media Department - General Administration of Public Contracting and Media 2024. Author: Media Department - General Administration of Public Contracting and Media 2024. Author: Media Department - General Administration of Public Contracting and Media 2024. Author: Media Department - General Administration of Public Contracting and Media 2024.",
       "images": [
         {
@@ -1305,31 +1349,64 @@
       "en": "Read more",
       "fr": "Lire la suite"
     }
-  }
-  ,
-  "overView":
-  {
+  },
+  "overView": {
     "title": {
       "en": "Sector Overview",
       "ar": "نظرة عامة على القطاع"
     },
     "images": [
-      { "type": "box", "color": "bg-[#F8F2D8]", "size": "w-16 h-16" },
-      { "type": "image", "src": "/assets/images/o1.jpeg", "size": "w-24 h-24" },
-      { "type": "box", "color": "bg-[#F8F2D8]", "size": "w-16 h-16" },
-      { "type": "image", "src": "/assets/images/o3.jpeg", "size": "w-32 h-32" },
-      { "type": "image", "src": "/assets/images/o2.jpeg", "size": "w-32 h-32" },
-      { "type": "image", "src": "/assets/images/o4.jpeg", "size": "w-24 h-24" },
-      { "type": "box", "color": "bg-[#F8F2D8]", "size": "w-16 h-16" },
-      { "type": "image", "src": "/assets/images/o5.jpeg", "size": "w-24 h-24" },
-      { "type": "box", "color": "bg-[#F8F2D8]", "size": "w-16 h-16" }
+      {
+        "type": "box",
+        "color": "bg-[#F8F2D8]",
+        "size": "w-16 h-16"
+      },
+      {
+        "type": "image",
+        "src": "/assets/images/o1.jpeg",
+        "size": "w-24 h-24"
+      },
+      {
+        "type": "box",
+        "color": "bg-[#F8F2D8]",
+        "size": "w-16 h-16"
+      },
+      {
+        "type": "image",
+        "src": "/assets/images/o3.jpeg",
+        "size": "w-32 h-32"
+      },
+      {
+        "type": "image",
+        "src": "/assets/images/o2.jpeg",
+        "size": "w-32 h-32"
+      },
+      {
+        "type": "image",
+        "src": "/assets/images/o4.jpeg",
+        "size": "w-24 h-24"
+      },
+      {
+        "type": "box",
+        "color": "bg-[#F8F2D8]",
+        "size": "w-16 h-16"
+      },
+      {
+        "type": "image",
+        "src": "/assets/images/o5.jpeg",
+        "size": "w-24 h-24"
+      },
+      {
+        "type": "box",
+        "color": "bg-[#F8F2D8]",
+        "size": "w-16 h-16"
+      }
     ],
     "description": {
       "en": "The Environmental Affairs and Community Service sector plays a key role in enhancing the university’s involvement in serving the community, fostering interaction between the university and the local community, and strengthening the university's social responsibility.",
       "ar": "يلعب قطاع شؤون البيئة وخدمة المجتمع دورًا رئيسيًا في تعزيز مشاركة الجامعة في خدمة المجتمع، وتعزيز التفاعل بين الجامعة والمجتمع المحلي، وتعزيز المسؤولية الاجتماعية للجامعة."
     },
-    "initiativesImage":"/assets/images/overView.jpeg"
-    ,
+    "initiativesImage": "/assets/images/overView.jpeg",
     "initiatives": [
       {
         "en": "Supervising the preparation of plans, policies, and programs to enhance the university's role in community service and environmental development.",
@@ -1368,7 +1445,77 @@
         "ar": "تقييم التأثير الاجتماعي والبيئي للمشروعات لتعزيز الجهود المجتمعية."
       }
     ]
+  },
+  "facultySection":{
+    "service":{
+      "title":
+      {
+        "en":"E-Services at the Faculty of Electronic Engineering"
+        , "ar":"الخدمات الإلكترونية بكلية الهندسة الإلكترونية"
+      }
+      ,"description":{
+        "en":"You can access all electronic services through the Menoufia University website, where you can select the portal you wish to enter.",
+        "ar":"يمكنك الحصول على جميع الخدمات الالكترونية من خلال موقع جامعة المنوفية حيث يمكنك اختيار البوابة المراد الدخول اليها"
+      },
+      "services":[
+        {
+          "en":"Student Service",
+          "ar":"خدمة الطلاب"
+        },
+        {
+          "ar":"خدمة اعضاء هيئة التدريس",
+          "en":" Faculty Members Service"
+        },
+        {
+          "ar":"خدمة الدراسات العيا والخريجين",
+          "en":"Graduate and Postgraduate Studies Service"
+        }
+      ]
+    }
+    ,"faculty":{
+      "name":{
+        "en":"For the Faculty of Engineering",
+        "ar":"لكلية الهندسة"
+      },
+      "description":[
+        {
+          "img":"../../../../../public/assets/images/c822ab7128d3b1e03d2460a3a75a846c.jpeg"
+          , "words":{
+            "ar":"مدة الدراسة في الدبلومة المهنية أو البرنامج النوعي لا تقل عن عام دراسي واحد ولا تزيد عن عامين دراسيين.",
+              "en":"The duration of study for the professional diploma or specialized program is not less than one academic year and does not exceed two academic years."
+          }
+        }
+        , {
+          "img":"../../../../../public/assets/images/c822ab7128d3b1e03d2460a3a75a846c.jpeg"
+          , "words":{
+            "ar":"مدة الدراسة في الدبلومة المهنية أو البرنامج النوعي لا تقل عن عام دراسي واحد ولا تزيد عن عامين دراسيين.",
+              "en":"The duration of study for the professional diploma or specialized program is not less than one academic year and does not exceed two academic years."
+          }
+        }
+       , {
+          "img":"../../../../../public/assets/images/c822ab7128d3b1e03d2460a3a75a846c.jpeg"
+          , "words":{
+            "ar":"مدة الدراسة في الدبلومة المهنية أو البرنامج النوعي لا تقل عن عام دراسي واحد ولا تزيد عن عامين دراسيين.",
+              "en":"The duration of study for the professional diploma or specialized program is not less than one academic year and does not exceed two academic years."
+          }
+        }
+      ]
+    },
+    "leaderFaculty":{
+      "position":{
+        "en":"Dean of the Faculty",
+        "ar":" عميــــــــــد الكليـــــــــــــة"
+      },
+      "description":{
+        "ar":"  المؤهلات الدراسية:   بكالوريوس الهندسة الإلكترونية (قسم هندسة وعلوم الحاسبات) من كلية الهندسة الإلكترونية بمنوف .. جامعة المنوفية ..  دور مايو 1994م بتقدير (تراقمى) عام جيد جدا مع مرتبة الشرف.",
+        "en":"Academic Qualifications: Bachelor of Electronic Engineering (Department of Computer Engineering and Science) from the Faculty of Electronic Engineering, Menouf, Menoufia University, May 1994, with a cumulative grade of Very Good with Honors."
+      },
+      "name":{
+        "ar":"أ.د/ ايمن السيد احمد عميره",
+        "en":"Prof. Dr. Ayman El-Sayed Ahmed Omeira"
+      },
+      "img":"../../../../../public/assets/images/40bb09e641278fed84dc5780f7cf024f.jpeg"
+    }
   }
-  
-  
+ 
 }
