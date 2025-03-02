@@ -1680,7 +1680,11 @@
           }
         }
        , {
-          "img":"../../../../../public/assets/images/c822ab7128d3b1e03d2460a3a75a846c.jpeg"
+          "img":"../../../../../public/assets/images/c822ab7128d3b1e03d2460a3a75a846c.jpeg",
+          "alt": {
+            "ar": "صورة للكلية",
+            "en": "Image of the faculty"
+          }
           , "words":{
             "ar":"مدة الدراسة في الدبلومة المهنية أو البرنامج النوعي لا تقل عن عام دراسي واحد ولا تزيد عن عامين دراسيين.",
               "en":"The duration of study for the professional diploma or specialized program is not less than one academic year and does not exceed two academic years."
@@ -1694,7 +1698,7 @@
         "ar":" عميــــــــــد الكليـــــــــــــة"
       },
       "description":{
-        "ar":"  المؤهلات الدراسية:   بكالوريوس الهندسة الإلكترونية (قسم هندسة وعلوم الحاسبات) من كلية الهندسة الإلكترونية بمنوف .. جامعة المنوفية ..  دور مايو 1994م بتقدير (تراقمى) عام جيد جدا مع مرتبة الشرف.",
+        "ar":" المؤهلات الدراسية:   بكالوريوس الهندسة الإلكترونية (قسم هندسة وعلوم الحاسبات) من كلية الهندسة الإلكترونية بمنوف .. جامعة المنوفية ..  دور مايو 1994م بتقدير (تراقمى) عام جيد جدا مع مرتبة الشرف.",
         "en":"Academic Qualifications: Bachelor of Electronic Engineering (Department of Computer Engineering and Science) from the Faculty of Electronic Engineering, Menouf, Menoufia University, May 1994, with a cumulative grade of Very Good with Honors."
       },
       "name":{
