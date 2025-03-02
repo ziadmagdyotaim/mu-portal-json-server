@@ -1680,7 +1680,11 @@
           }
         }
        , {
-          "img":"../../../../../public/assets/images/c822ab7128d3b1e03d2460a3a75a846c.jpeg"
+          "img":"../../../../../public/assets/images/c822ab7128d3b1e03d2460a3a75a846c.jpeg",
+          "alt": {
+            "ar": "صورة للكلية",
+            "en": "Image of the faculty"
+          }
           , "words":{
             "ar":"مدة الدراسة في الدبلومة المهنية أو البرنامج النوعي لا تقل عن عام دراسي واحد ولا تزيد عن عامين دراسيين.",
               "en":"The duration of study for the professional diploma or specialized program is not less than one academic year and does not exceed two academic years."
